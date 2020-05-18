@@ -1,0 +1,5 @@
+
+sudo apt-get update && sudo apt-get -y install python ncbi-blast+
+
+wget ftp://ftp.ncbi.nih.gov/refseq/B_taurus/mRNA_Prot/cow.1.protein.faa.gz
+wget ftp://ftp.ncbi.nih.gov/refseq/H_sapiens/mRNA_Prot/human.1.protein.faa.gz
