@@ -1,0 +1,7 @@
+Locus,Length (bp),No. of polymorphic sites,Locus specific heterozygosity (Mean),Locus specific heterozygosity (S.D.),Accession of BlastX top hit,E-value,Potential product/function based on region annotation
+Loc127,368,1,0.112,0.163,XP_002995906,3.00E-21,SPX domain-containing protein involved in vacuolar polyphosphate accumulation
+Loc228,197,1,0,0.001,XP_002996191,9.00E-33,WD40 domain
+Loc326,105,1,0.055,0.112,XP_002995922,2.00E-06,unknown
+Loc381,341,0,0,0,XP_002995504,2.00E-25,Proteasome beta type-7 subunit
+Loc416,223,12,0.456,0.214,XP_002994796,2.00E-10,Ribosomal protein L13e
+Loc430,238,1,0,0.001,XP_002995592,5.00E-24,Ribosome-associated chaperone zuotin

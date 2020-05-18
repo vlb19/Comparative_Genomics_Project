@@ -1,0 +1,2085 @@
+BLASTP 2.9.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: human.1.protein.faa
+           14,775 sequences; 7,437,115 total letters
+
+
+
+Query= NP_001193503.1 E3 ubiquitin-protein ligase TRIM56 [Bos taurus]
+
+Length=320
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+NP_001139107.1 tripartite motif-containing protein 45 isoform 2 [...  100        7e-24
+NP_079464.2 tripartite motif-containing protein 45 isoform 1 [Hom...  100        8e-24
+NP_258411.2 E3 ubiquitin-protein ligase TRIM47 [Homo sapiens]         51.2       3e-07
+NP_001287688.1 E3 ubiquitin-protein ligase TRIM36 isoform 5 [Homo...  48.9       1e-06
+NP_061170.2 E3 ubiquitin-protein ligase TRIM36 isoform 1 [Homo sa...  48.9       2e-06
+NP_997279.2 RING finger protein 207 [Homo sapiens]                    48.5       2e-06
+NP_001157869.1 putative tripartite motif-containing protein 64B [...  46.2       9e-06
+NP_008959.3 E3 ubiquitin-protein ligase TRIM31 [Homo sapiens]         45.8       1e-05
+NP_148977.2 E3 ubiquitin-protein ligase TRIM4 isoform alpha [Homo...  45.1       2e-05
+NP_942150.1 tripartite motif-containing protein 74 [Homo sapiens]     43.9       3e-05
+NP_001304744.1 tripartite motif-containing protein 74 [Homo sapiens]  43.9       3e-05
+NP_001269308.1 tripartite motif-containing protein 46 isoform 6 [...  44.7       3e-05
+NP_001129958.1 tripartite motif-containing protein 64 [Homo sapiens]  44.3       3e-05
+NP_001269307.1 tripartite motif-containing protein 46 isoform 5 [...  44.3       4e-05
+NP_001157936.1 tripartite motif-containing protein 43B [Homo sapi...  43.9       5e-05
+NP_079334.3 tripartite motif-containing protein 46 isoform 1 [Hom...  44.3       5e-05
+NP_001243530.1 tripartite motif-containing protein 46 isoform 4 [...  43.9       5e-05
+NP_001243528.1 tripartite motif-containing protein 46 isoform 2 [...  43.5       7e-05
+NP_775828.1 E3 ubiquitin-protein ligase RNF152 [Homo sapiens]         42.0       9e-05
+NP_944606.2 tripartite motif-containing protein 73 [Homo sapiens]     41.6       2e-04
+NP_001287681.1 E3 ubiquitin-protein ligase TRIM36 isoform 4 [Homo...  42.0       2e-04
+NP_149082.1 E3 ubiquitin-protein ligase TRIM4 isoform beta [Homo ...  41.2       3e-04
+NP_001317429.1 bifunctional apoptosis regulator isoform 2 [Homo s...  40.8       4e-04
+NP_690856.1 E3 ubiquitin-protein ligase UHRF2 [Homo sapiens]          41.2       4e-04
+NP_001013756.2 ret finger protein-like 4B [Homo sapiens]              40.0       5e-04
+NP_060543.5 E3 ubiquitin-protein ligase TRIM68 isoform 1 [Homo sa...  39.3       0.001
+NP_060677.2 E3 ubiquitin-protein ligase TRIM62 isoform 1 [Homo sa...  38.9       0.002
+NP_001276038.1 LON peptidase N-terminal domain and RING finger pr...  38.5       0.003
+NP_079054.3 LON peptidase N-terminal domain and RING finger prote...  38.5       0.003
+NP_001349742.1 tripartite motif-containing protein 35 isoform 3 [...  37.4       0.005
+NP_741983.2 tripartite motif-containing protein 35 isoform 1 [Hom...  37.4       0.006
+NP_001244954.1 tripartite motif-containing protein 60 [Homo sapiens]  37.4       0.006
+NP_689833.1 tripartite motif-containing protein 60 [Homo sapiens]     37.4       0.006
+NP_001291424.1 tripartite motif-containing protein 35 isoform 2 [...  37.0       0.006
+NP_001186048.1 TRIM39-RPP21 protein [Homo sapiens]                    36.6       0.011
+NP_057506.2 RING finger protein 141 [Homo sapiens]                    35.4       0.014
+NP_009229.2 breast cancer type 1 susceptibility protein isoform 4...  35.8       0.023
+NP_009230.2 breast cancer type 1 susceptibility protein isoform 5...  35.4       0.024
+NP_001258871.1 tripartite motif-containing protein 77 isoform 2 [...  35.0       0.031
+NP_777563.2 RING finger protein 151 isoform 1 [Homo sapiens]          34.7       0.032
+NP_001358164.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]      34.3       0.033
+NP_659488.2 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]         34.3       0.033
+NP_001358165.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]      34.3       0.033
+NP_001358166.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]      34.3       0.033
+NP_001358163.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]      34.3       0.033
+NP_689950.1 E3 ubiquitin-protein ligase RNF182 [Homo sapiens]         34.3       0.038
+NP_001341408.1 roquin-2 isoform 4 [Homo sapiens]                      34.7       0.048
+NP_001341411.1 roquin-2 isoform 5 [Homo sapiens]                      34.7       0.056
+NP_001003818.1 tripartite motif-containing protein 6 isoform 1 [H...  34.3       0.060
+NP_001229776.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo...  33.9       0.070
+NP_001229773.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo...  33.9       0.070
+NP_001229777.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo...  33.9       0.070
+NP_001229775.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo...  33.9       0.070
+NP_001229781.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo...  33.9       0.070
+NP_112225.2 E3 ubiquitin-protein ligase RNF146 isoform a [Homo sa...  33.9       0.070
+NP_001229774.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo...  33.9       0.070
+NP_061153.1 E3 ubiquitin-protein ligase RNF114 [Homo sapiens]         33.5       0.074
+NP_001193555.1 tripartite motif-containing protein [Homo sapiens]     33.5       0.090
+NP_001335640.1 RING finger protein 151 isoform 2 [Homo sapiens]       31.2       0.099
+NP_001185880.1 E3 ubiquitin-protein ligase RNF103 isoform 2 [Homo...  33.5       0.100
+NP_005658.1 E3 ubiquitin-protein ligase RNF103 isoform 1 [Homo sa...  33.5       0.10 
+NP_001358712.1 LON peptidase N-terminal domain and RING finger pr...  33.5       0.11 
+NP_477514.1 tripartite motif-containing protein 6 isoform 2 [Homo...  33.1       0.12 
+NP_001107033.1 E3 ubiquitin-protein ligase RNF180 isoform 1 [Homo...  33.1       0.15 
+NP_001154819.1 E3 ubiquitin-protein ligase CHFR isoform 5 [Homo s...  33.1       0.15 
+NP_060693.2 E3 ubiquitin-protein ligase CHFR isoform 4 [Homo sapi...  33.1       0.15 
+NP_001287818.1 tripartite motif-containing protein 67 isoform 2 [...  33.1       0.15 
+NP_116070.2 tripartite motif-containing protein 51 [Homo sapiens]     32.7       0.19 
+NP_061935.1 E3 ubiquitin-protein ligase RNF186 [Homo sapiens]         32.0       0.22 
+NP_001306886.1 E3 ubiquitin-protein ligase RNF220 isoform 2 [Homo...  32.0       0.24 
+NP_001008275.2 tripartite motif-containing protein 72 [Homo sapiens]  32.0       0.28 
+NP_001357242.1 E3 ubiquitin-protein ligase RNF167 isoform f precu...  31.6       0.34 
+NP_057209.3 E3 ubiquitin-protein ligase RNFT1 [Homo sapiens]          31.6       0.37 
+NP_001307288.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001307287.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001307285.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001307290.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001357234.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001307289.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001307286.1 E3 ubiquitin-protein ligase RNF167 isoform a precu...  31.6       0.39 
+NP_001357236.1 E3 ubiquitin-protein ligase RNF167 isoform d precu...  31.6       0.41 
+NP_001357235.1 E3 ubiquitin-protein ligase RNF167 isoform d precu...  31.6       0.41 
+NP_001357232.1 E3 ubiquitin-protein ligase RNF167 isoform c precu...  31.2       0.47 
+NP_001357233.1 E3 ubiquitin-protein ligase RNF167 isoform c precu...  31.2       0.47 
+NP_001307294.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo...  31.2       0.51 
+NP_001307291.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo...  31.2       0.51 
+NP_001357240.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo...  31.2       0.51 
+NP_001307292.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo...  31.2       0.51 
+NP_001307293.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo...  31.2       0.51 
+NP_001357237.1 E3 ubiquitin-protein ligase RNF167 isoform e [Homo...  30.8       0.62 
+NP_057710.3 RNA-binding E3 ubiquitin-protein ligase MEX3C [Homo s...  30.8       0.69 
+NP_067629.2 tripartite motif-containing protein 34 isoform 1 [Hom...  30.4       0.84 
+NP_001003827.1 tripartite motif-containing protein 34 isoform 1 [...  30.4       0.84 
+NP_569074.2 tripartite motif-containing protein 34 isoform 3 [Hom...  30.0       0.92 
+NP_001127911.1 pleckstrin homology-like domain family B member 2 ...  30.4       1.1  
+NP_073599.2 E3 ubiquitin-protein transferase RMND5B isoform a [Ho...  30.0       1.1  
+NP_001275724.1 E3 ubiquitin-protein transferase RMND5B isoform b ...  30.0       1.3  
+NP_001167589.1 RNA-binding protein MEX3D isoform 2 [Homo sapiens]     30.0       1.3  
+NP_001098992.1 tripartite motif-containing protein 49D [Homo sapi...  29.6       1.6  
+NP_001193556.1 tripartite motif-containing protein 49D [Homo sapi...  29.6       1.6  
+NP_001171922.1 RING finger protein 17 isoform 2 [Homo sapiens]        29.6       1.7  
+NP_112567.2 RING finger protein 17 isoform 1 [Homo sapiens]           29.6       1.7  
+NP_001004342.3 tripartite motif-containing protein 67 isoform 1 [...  29.3       2.1  
+NP_003077.2 snRNA-activating protein complex subunit 4 [Homo sapi...  29.3       2.5  
+NP_001272414.1 E3 ubiquitin-protein ligase NEURL3 isoform a [Homo...  28.1       3.7  
+NP_001087194.1 RNA-binding protein MEX3A [Homo sapiens]               28.5       4.2  
+NP_001190991.1 COMMD3-BMI1 read-through protein [Homo sapiens]        28.1       4.3  
+NP_001138344.1 cilia- and flagella-associated protein 73 [Homo sa...  28.1       4.9  
+NP_001273562.1 tripartite motif-containing protein 40 isoform a [...  27.7       4.9  
+NP_001135763.2 E3 ubiquitin-protein ligase MGRN1 isoform 4 [Homo ...  28.1       5.1  
+NP_001135761.2 E3 ubiquitin-protein ligase MGRN1 isoform 2 [Homo ...  28.1       5.5  
+NP_619645.1 tripartite motif-containing protein 40 isoform b [Hom...  27.7       5.7  
+NP_056061.1 E3 ubiquitin-protein ligase MGRN1 isoform 1 [Homo sap...  28.1       5.9  
+NP_001357464.1 E3 ubiquitin-protein ligase RFWD3 isoform 1 [Homo ...  27.7       6.2  
+NP_001357463.1 E3 ubiquitin-protein ligase RFWD3 isoform 1 [Homo ...  27.7       6.2  
+NP_060594.3 E3 ubiquitin-protein ligase RFWD3 isoform 1 [Homo sap...  27.7       6.2  
+NP_001357469.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo ...  27.7       6.2  
+NP_001357468.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo ...  27.7       6.2  
+NP_001357471.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo ...  27.7       6.2  
+NP_001357466.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo ...  27.7       6.2  
+NP_001357472.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo ...  27.7       6.2  
+NP_000309.2 peroxisome biogenesis factor 2 [Homo sapiens]             27.7       6.6  
+NP_001357465.1 E3 ubiquitin-protein ligase RFWD3 isoform 2 [Homo ...  27.7       7.2  
+NP_055535.2 STE20-like serine/threonine-protein kinase isoform 1 ...  27.3       8.5  
+
+
+>NP_001139107.1 tripartite motif-containing protein 45 isoform 
+2 [Homo sapiens]
+Length=562
+
+ Score = 100 bits (250),  Expect = 7e-24, Method: Compositional matrix adjust.
+ Identities = 84/330 (25%), Positives = 127/330 (38%), Gaps = 46/330 (14%)
+
+Query  21   CKICLEQLRVPKTLPCLHTYCQDCLAQL----------------AEGSRLR---------  55
+            C +CL   + P+ LPCLHT C  CL QL                +EGS  +         
+Sbjct  29   CPLCLGLFKAPRLLPCLHTVCTTCLEQLEPFSVVDIRGGDSDTSSEGSIFQELKPRSLQS  88
+
+Query  56   -----CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPACALCPLMGGA  110
+                 CP C   V +P  GV A   +      + L   R  G        C LC      
+Sbjct  89   QIGILCPVCDAQVDLPMGGVKALTIDHLAVNDVMLESLRGEGQ----GLVCDLC------  138
+
+Query  111  SAGGPATARCLDCADDLCQACADGHRCTRQTHSHRVVDLVGYRAGWYDEEARERQAAQCP  170
+                    RC  C  +LC  C   HR  ++T  H +VDL   +       +R  +   CP
+Sbjct  139  -NDREVEKRCQTCKANLCHFCCQAHRRQKKTTYHTMVDLKDLKG-----YSRIGKPILCP  192
+
+Query  171  QHPGEALRFLCQPCSQLLCRECRLDPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLAEL  230
+             HP E LR  C+ C + +C++C +  H +HPC   +  +      + ELL G   ++  L
+Sbjct  193  VHPAEELRLFCEFCDRPVCQDCVVGEHREHPCDFTSNVIHKHGDSVWELLKGTQPHVEAL  252
+
+Query  231  EATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGARE  290
+            E          + L+++   V   V   SE  ++A+   + ++L QL       E   + 
+Sbjct  253  EEALAQIHIINSALQKRVEAVAADVRTFSEGYIKAIEEHRDKLLKQLEDIRAQKENSLQL  312
+
+Query  291  RLGELEGQEQVAREAAAFARRVLSLGREAE  320
+            +  +LE      R    F   +L+ G + E
+Sbjct  313  QKAQLEQLLADMRTGVEFTEHLLTSGSDLE  342
+
+
+>NP_079464.2 tripartite motif-containing protein 45 isoform 1 
+[Homo sapiens]
+Length=580
+
+ Score = 100 bits (250),  Expect = 8e-24, Method: Compositional matrix adjust.
+ Identities = 84/330 (25%), Positives = 127/330 (38%), Gaps = 46/330 (14%)
+
+Query  21   CKICLEQLRVPKTLPCLHTYCQDCLAQL----------------AEGSRLR---------  55
+            C +CL   + P+ LPCLHT C  CL QL                +EGS  +         
+Sbjct  29   CPLCLGLFKAPRLLPCLHTVCTTCLEQLEPFSVVDIRGGDSDTSSEGSIFQELKPRSLQS  88
+
+Query  56   -----CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPACALCPLMGGA  110
+                 CP C   V +P  GV A   +      + L   R  G        C LC      
+Sbjct  89   QIGILCPVCDAQVDLPMGGVKALTIDHLAVNDVMLESLRGEGQ----GLVCDLC------  138
+
+Query  111  SAGGPATARCLDCADDLCQACADGHRCTRQTHSHRVVDLVGYRAGWYDEEARERQAAQCP  170
+                    RC  C  +LC  C   HR  ++T  H +VDL   +       +R  +   CP
+Sbjct  139  -NDREVEKRCQTCKANLCHFCCQAHRRQKKTTYHTMVDLKDLKG-----YSRIGKPILCP  192
+
+Query  171  QHPGEALRFLCQPCSQLLCRECRLDPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLAEL  230
+             HP E LR  C+ C + +C++C +  H +HPC   +  +      + ELL G   ++  L
+Sbjct  193  VHPAEELRLFCEFCDRPVCQDCVVGEHREHPCDFTSNVIHKHGDSVWELLKGTQPHVEAL  252
+
+Query  231  EATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGARE  290
+            E          + L+++   V   V   SE  ++A+   + ++L QL       E   + 
+Sbjct  253  EEALAQIHIINSALQKRVEAVAADVRTFSEGYIKAIEEHRDKLLKQLEDIRAQKENSLQL  312
+
+Query  291  RLGELEGQEQVAREAAAFARRVLSLGREAE  320
+            +  +LE      R    F   +L+ G + E
+Sbjct  313  QKAQLEQLLADMRTGVEFTEHLLTSGSDLE  342
+
+
+>NP_258411.2 E3 ubiquitin-protein ligase TRIM47 [Homo sapiens]
+Length=638
+
+ Score = 51.2 bits (121),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 86/345 (25%), Positives = 127/345 (37%), Gaps = 66/345 (19%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQL----------AEGSRLRCPECRESVPVPPA  68
+             +C ICLE LR P TLPC H +C  CL  L            G   RCP C+E  P    
+Sbjct  7    FSCPICLEPLREPVTLPCGHNFCLACLGALWPHRGASGAGGPGGAARCPLCQEPFP----  62
+
+Query  69   GVAAFKTNFFVNGLLDLVKARAGGDLR------AGKPA--------------CALCPLMG  108
+                 + N  ++ LL L +    G         A +P+              CA  P   
+Sbjct  63   DGLQLRKNHTLSELLQLRQGSGPGSGPGPAPALAPEPSAPSALPSVPEPSAPCAPEPWPA  122
+
+Query  109  G----------ASAGGPATARCLDCADDLCQACADGHRCTRQTHSHRVVDLVGYRAGWYD  158
+            G            A  PA   CL C    C A    H  +     HR+V  +        
+Sbjct  123  GEEPVRCDACPEGAALPAALSCLSCLASFCPAHLGPHERSPALRGHRLVPPL--------  174
+
+Query  159  EEARERQAAQCPQHPGEALRFLCQPCSQLLCRECRLDPHLDHPCLPLAEAVRARRPGLEE  218
+               R  + + CP+H     R+ C+     LC  C    H  H  +PL +    +     +
+Sbjct  175  ---RRLEESLCPRHLRPLERY-CRAERVCLCEACAAQEHRGHELVPLEQERALQEAEQSK  230
+
+Query  219  LLAGVDNNLAELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLR  278
+            +L+ V++ + EL A     +  +A ++  A     +V         AL   + +VLG + 
+Sbjct  231  VLSAVEDRMDELGAGIAQSRRTVALIKSAAVAERERVSRLFADAAAALQGFQTQVLGFI-  289
+
+Query  279  AHVEAAEEGARERLGELEG---QEQVAREAAAFARRVLSLGREAE  320
+                  EEG    LG  +G   +++  R   + AR+ LS   EA+
+Sbjct  290  ------EEGEAAMLGRSQGDLRRQEEQRSRLSRARQNLSQVPEAD  328
+
+
+>NP_001287688.1 E3 ubiquitin-protein ligase TRIM36 isoform 5 [Homo 
+sapiens]
+Length=716
+
+ Score = 48.9 bits (115),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 77/367 (21%), Positives = 131/367 (36%), Gaps = 82/367 (22%)
+
+Query  1    MVSQGS-SPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQL-----------  48
+            M   GS SP  ++ +  + L C  C E    P  LPC H+ C  C+ +L           
+Sbjct  1    MEGDGSDSPVTIKNIERE-LICPACKELFTHPLILPCQHSICHKCVKELLLTLDDSFNDV  59
+
+Query  49   ------AEGSRLR------------------------------CPECRESVPVPPAGVAA  72
+                      RLR                              CP C   V +   G+  
+Sbjct  60   GSDNSNQSSPRLRLPSPSMDKIDRINRPGWKRNSLTPRTTVFPCPGCEHDVDLGERGING  119
+
+Query  73   FKTNFFVNGLLDLVKARAGGDLRAGKPACALCPLMGGASAGGPATARCLDCADDLCQACA  132
+               NF +  +++  +  A     A    C LC           +T  C+DC+   C  C 
+Sbjct  120  LFRNFTLETIVERYRQAARA---ATAIMCDLC-----KPPPQESTKSCMDCSASYCNECF  171
+
+Query  133  DGHR--CTRQTHSHRVVDLVGYRAGWYDEEARERQAAQCPQHPGEALRFLCQPCSQLLCR  190
+              H    T +     V     +R           +   CP+H  E +   C+ C + +C 
+Sbjct  172  KIHHPWGTIKAQHEYVGPTTNFRP----------KILMCPEHETERINMYCELCRRPVCH  221
+
+Query  191  ECRL-DPHLDHPCLPLAEAVRARRPGLE---ELLAGVDNNL-AELEATRLAEKEAL---A  242
+             C+L   H +H    ++ A +  +  L    + L G ++ + +++    L  KE      
+Sbjct  222  LCKLGGNHANHRVTTMSSAYKTLKEKLSKDIDYLIGKESQVKSQISELNLLMKETECNGE  281
+
+Query  243  RLREQAA----KVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGARERLGELEGQ  298
+            R +E+A     K+   +EE    VL+A+ + K+  L + +  +E   +G  E  G +   
+Sbjct  282  RAKEEAITHFEKLFEVLEERKSSVLKAIDSSKKLRLDKFQTQMEEY-QGLLENNGLVGYA  340
+
+Query  299  EQVAREA  305
+            ++V +E 
+Sbjct  341  QEVLKET  347
+
+
+>NP_061170.2 E3 ubiquitin-protein ligase TRIM36 isoform 1 [Homo 
+sapiens]
+Length=728
+
+ Score = 48.9 bits (115),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 72/348 (21%), Positives = 122/348 (35%), Gaps = 80/348 (23%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQL-----------------AEGSRLR------  55
+            L C  C E    P  LPC H+ C  C+ +L                     RLR      
+Sbjct  31   LICPACKELFTHPLILPCQHSICHKCVKELLLTLDDSFNDVGSDNSNQSSPRLRLPSPSM  90
+
+Query  56   ------------------------CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAG  91
+                                    CP C   V +   G+     NF +  +++  +  A 
+Sbjct  91   DKIDRINRPGWKRNSLTPRTTVFPCPGCEHDVDLGERGINGLFRNFTLETIVERYRQAAR  150
+
+Query  92   GDLRAGKPACALCPLMGGASAGGPATARCLDCADDLCQACADGHR--CTRQTHSHRVVDL  149
+                A    C LC           +T  C+DC+   C  C   H    T +     V   
+Sbjct  151  A---ATAIMCDLC-----KPPPQESTKSCMDCSASYCNECFKIHHPWGTIKAQHEYVGPT  202
+
+Query  150  VGYRAGWYDEEARERQAAQCPQHPGEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEA  208
+              +R           +   CP+H  E +   C+ C + +C  C+L   H +H    ++ A
+Sbjct  203  TNFRP----------KILMCPEHETERINMYCELCRRPVCHLCKLGGNHANHRVTTMSSA  252
+
+Query  209  VRARRPGLE---ELLAGVDNNL-AELEATRLAEKEAL---ARLREQAA----KVVTQVEE  257
+             +  +  L    + L G ++ + +++    L  KE      R +E+A     K+   +EE
+Sbjct  253  YKTLKEKLSKDIDYLIGKESQVKSQISELNLLMKETECNGERAKEEAITHFEKLFEVLEE  312
+
+Query  258  ASERVLRALLAQKQEVLGQLRAHVEAAEEGARERLGELEGQEQVAREA  305
+                VL+A+ + K+  L + +  +E   +G  E  G +   ++V +E 
+Sbjct  313  RKSSVLKAIDSSKKLRLDKFQTQMEEY-QGLLENNGLVGYAQEVLKET  359
+
+
+>NP_997279.2 RING finger protein 207 [Homo sapiens]
+Length=634
+
+ Score = 48.5 bits (114),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 45/143 (31%), Positives = 60/143 (42%), Gaps = 10/143 (7%)
+
+Query  8    PSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECR-ESVPVP  66
+            PS L+A S   L C +C  Q   P  L C H +C  CL   A   RL CP C+ ++V   
+Sbjct  12   PSSLDAPSIHPLVCPLCHVQYERPCLLDCFHDFCAGCLRGRATDGRLTCPLCQHQTVLKG  71
+
+Query  67   PAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPACALCPLMGGASAGGPATARCLDCADD  126
+            P+G+        V+ LL  +   +G  + A +  CA C L   +      T  C  C   
+Sbjct  72   PSGLPP------VDRLLQFLVDSSGDGVEAVR--CANCDL-ECSEQDVETTYFCNTCGQP  122
+
+Query  127  LCQACADGHRCTRQTHSHRVVDL  149
+            LC  C D     R    H +V L
+Sbjct  123  LCARCRDETHRARMFARHDIVAL  145
+
+
+>NP_001157869.1 putative tripartite motif-containing protein 64B 
+[Homo sapiens]
+Length=449
+
+ Score = 46.2 bits (108),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 41/151 (27%), Positives = 60/151 (40%), Gaps = 30/151 (20%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSR--LRCPECRESVPVPPAGVAAFKTN  76
+            L C IC+     P T+ C H++C+ CL   +E  R  +RCP CR++   P      F TN
+Sbjct  13   LICCICVNYFIDPVTIDCGHSFCRPCLCLCSEEGRAPMRCPSCRKTSEKP-----NFNTN  67
+
+Query  77   FFVNGLLDLVKARAGGDLRAGKPACALCPLMGGASAGGPATARCLDCADD---LCQACAD  133
+              +  L  L +     ++ +    C L               + L C  D   LC  C++
+Sbjct  68   LVLKKLSSLARQTRPQNINSSDNICVL-----------HEETKELFCEADKRLLCGPCSE  116
+
+Query  134  GHRCTRQTHSHRVVDLVGYRAGWYDEEARER  164
+                    HSH  +       GW  EE RE+
+Sbjct  117  SPE--HMAHSHSPI-------GWAAEECREK  138
+
+
+>NP_008959.3 E3 ubiquitin-protein ligase TRIM31 [Homo sapiens]
+Length=425
+
+ Score = 45.8 bits (107),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/89 (29%), Positives = 46/89 (52%), Gaps = 8/89 (9%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGS--RLRCPECRESVPVPPAGVAAFKTN  76
+            + C ICL+ L+ P T+ C H +C  C+ Q+ E S    +CP C+ SV        A + N
+Sbjct  14   VICPICLDILQKPVTIDCGHNFCLKCITQIGETSCGFFKCPLCKTSV-----RKNAIRFN  68
+
+Query  77   FFVNGLLDLVKARAGGDLRAGKPACALCP  105
+              +  L++ ++A    ++++ +   A CP
+Sbjct  69   SLLRNLVEKIQALQASEVQSKRKE-ATCP  96
+
+
+>NP_148977.2 E3 ubiquitin-protein ligase TRIM4 isoform alpha [Homo 
+sapiens]
+Length=500
+
+ Score = 45.1 bits (105),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 41/151 (27%), Positives = 61/151 (40%), Gaps = 21/151 (14%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESVPVPPAGVAAFKTN  76
+            L C ICL+  + P ++ C H +C+ CL +     G    CPECR      P+  AA + N
+Sbjct  10   LTCPICLDYFQDPVSIECGHNFCRGCLHRNWAPGGGPFPCPECRH-----PSAPAALRPN  64
+
+Query  77   FFVNGLLDLVKARAGGDLRAGKPACALCPLMGGASAGGPATARCLDCADDLCQACADGHR  136
+            + +  L +  + R  G +  G     LC          P    C D    +C  C +   
+Sbjct  65   WALARLTEKTQRRRLGPVPPG-----LC-----GRHWEPLRLFCEDDQRPVCLVCRESQE  114
+
+Query  137  CTRQTHSHRVVD--LVGYRAGWYDEEARERQ  165
+               QTH+   +D     YR G +D    E +
+Sbjct  115  --HQTHAMAPIDEAFESYRTGNFDIHVDEWK  143
+
+
+>NP_942150.1 tripartite motif-containing protein 74 [Homo sapiens]
+Length=250
+
+ Score = 43.9 bits (102),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 24/57 (42%), Positives = 33/57 (58%), Gaps = 4/57 (7%)
+
+Query  9   SLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESV  63
+           SLLE    D+L C ICLE  +    L C H+YC+ CL  L+    +++RCP C + V
+Sbjct  6   SLLEL--EDWLQCPICLEVFKESLMLQCGHSYCKGCLVSLSYHLDTKVRCPMCWQVV  60
+
+
+>NP_001304744.1 tripartite motif-containing protein 74 [Homo sapiens]
+Length=250
+
+ Score = 43.9 bits (102),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 24/57 (42%), Positives = 33/57 (58%), Gaps = 4/57 (7%)
+
+Query  9   SLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESV  63
+           SLLE    D+L C ICLE  +    L C H+YC+ CL  L+    +++RCP C + V
+Sbjct  6   SLLEL--EDWLQCPICLEVFKESLMLQCGHSYCKGCLVSLSYHLDTKVRCPMCWQVV  60
+
+
+>NP_001269308.1 tripartite motif-containing protein 46 isoform 
+6 [Homo sapiens]
+Length=551
+
+ Score = 44.7 bits (104),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 69/256 (27%), Positives = 104/256 (41%), Gaps = 39/256 (15%)
+
+Query  56   CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPA-CALC---PLMGGAS  111
+            CP C+  V +   G+A      F N  L+ V  R    +  G    C LC   PL     
+Sbjct  130  CPACQGDVELGERGLAGL----FRNLTLERVVERYRQSVSVGGAILCQLCKPPPLE----  181
+
+Query  112  AGGPATARCLDCADDLCQACAD-GHRCTRQTHSHR-VVDLVGYRAGWYDEEARERQAAQC  169
+                AT  C +C    C  C    H    Q   H   +  + +R           +   C
+Sbjct  182  ----ATKGCTECRATFCNECFKLFHPWGTQKAQHEPTLPTLSFRP----------KGLMC  227
+
+Query  170  PQHPGEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLA  228
+            P H  E   + C+ C +L+C+ CR+   H  H   P+  A +A +  L + L  +  N  
+Sbjct  228  PDHKEEVTHY-CKTCQRLVCQLCRVRRTHSGHKITPVLSAYQALKDKLTKSLTYILGNQD  286
+
+Query  229  ELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAH-VEAAEEG  287
+             ++ T++ E E   R  E + +   Q +E   +++R L A    VL + RA  ++A EE 
+Sbjct  287  TVQ-TQICELEEAVRHTEVSGQ---QAKEEVSQLVRGLGA----VLEEKRASLLQAIEEC  338
+
+Query  288  ARERLGELEGQEQVAR  303
+             +ERL  L  Q Q  R
+Sbjct  339  QQERLARLSAQIQEHR  354
+
+
+ Score = 31.2 bits (69),  Expect = 0.55, Method: Compositional matrix adjust.
+ Identities = 12/26 (46%), Positives = 14/26 (54%), Gaps = 0/26 (0%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDC  44
+           L C +C E  + P  LPC H  CQ C
+Sbjct  31  LLCPVCQEMYKQPLVLPCTHNVCQAC  56
+
+
+>NP_001129958.1 tripartite motif-containing protein 64 [Homo sapiens]
+Length=449
+
+ Score = 44.3 bits (103),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 41/151 (27%), Positives = 59/151 (39%), Gaps = 30/151 (20%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSR--LRCPECRESVPVPPAGVAAFKTN  76
+            L C IC+     P T+ C H++C+ CL   +E  R  +RCP CR+    P      F TN
+Sbjct  13   LICCICVNYFIDPVTIDCGHSFCRPCLCLCSEEGRAPMRCPSCRKISEKP-----NFNTN  67
+
+Query  77   FFVNGLLDLVKARAGGDLRAGKPACALCPLMGGASAGGPATARCLDCADD---LCQACAD  133
+              +  L  L +     ++ +    C L               + L C  D   LC  C++
+Sbjct  68   VVLKKLSSLARQTRPQNINSSDNICVL-----------HEETKELFCEADKRLLCGPCSE  116
+
+Query  134  GHRCTRQTHSHRVVDLVGYRAGWYDEEARER  164
+                    HSH  +       GW  EE RE+
+Sbjct  117  SPE--HMAHSHSPI-------GWAAEECREK  138
+
+
+>NP_001269307.1 tripartite motif-containing protein 46 isoform 
+5 [Homo sapiens]
+Length=633
+
+ Score = 44.3 bits (103),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 67/255 (26%), Positives = 102/255 (40%), Gaps = 37/255 (15%)
+
+Query  56   CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPA-CALC---PLMGGAS  111
+            CP C+  V +   G+A      F N  L+ V  R    +  G    C LC   PL     
+Sbjct  4    CPACQGDVELGERGLAGL----FRNLTLERVVERYRQSVSVGGAILCQLCKPPPLE----  55
+
+Query  112  AGGPATARCLDCADDLCQACAD-GHRCTRQTHSHR-VVDLVGYRAGWYDEEARERQAAQC  169
+                AT  C +C    C  C    H    Q   H   +  + +R           +   C
+Sbjct  56   ----ATKGCTECRATFCNECFKLFHPWGTQKAQHEPTLPTLSFRP----------KGLMC  101
+
+Query  170  PQHPGEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLA  228
+            P H  E   + C+ C +L+C+ CR+   H  H   P+  A +A +  L + L  +  N  
+Sbjct  102  PDHKEEVTHY-CKTCQRLVCQLCRVRRTHSGHKITPVLSAYQALKDKLTKSLTYILGNQD  160
+
+Query  229  ELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGA  288
+             ++ T++ E E   R  E + +   Q +E   +++R L A  +E    L   ++A EE  
+Sbjct  161  TVQ-TQICELEEAVRHTEVSGQ---QAKEEVSQLVRGLGAVLEEKRASL---LQAIEECQ  213
+
+Query  289  RERLGELEGQEQVAR  303
+            +ERL  L  Q Q  R
+Sbjct  214  QERLARLSAQIQEHR  228
+
+
+>NP_001157936.1 tripartite motif-containing protein 43B [Homo 
+sapiens]
+Length=446
+
+ Score = 43.9 bits (102),  Expect = 5e-05, Method: Compositional matrix adjust.
+ Identities = 34/99 (34%), Positives = 44/99 (44%), Gaps = 15/99 (15%)
+
+Query  14   LSSDF-------LACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESVP  64
+            + SDF       L C ICL  L  P T+ C H++C+ CL    E   S   CP CRE   
+Sbjct  1    MDSDFSHAFQKELTCVICLNYLVDPVTICCGHSFCRPCLCLSWEEAQSPANCPACRE---  57
+
+Query  65   VPPAGVAAFKTNFFVNGLLDLV-KARAGGDLRAGKPACA  102
+              P+    FKTN  +  L+ +  KA     L + K  C 
+Sbjct  58   --PSPKMDFKTNILLKNLVTIARKASLWQFLSSEKQICG  94
+
+
+>NP_079334.3 tripartite motif-containing protein 46 isoform 1 
+[Homo sapiens]
+Length=759
+
+ Score = 44.3 bits (103),  Expect = 5e-05, Method: Compositional matrix adjust.
+ Identities = 67/255 (26%), Positives = 102/255 (40%), Gaps = 37/255 (15%)
+
+Query  56   CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPA-CALC---PLMGGAS  111
+            CP C+  V +   G+A      F N  L+ V  R    +  G    C LC   PL     
+Sbjct  130  CPACQGDVELGERGLAGL----FRNLTLERVVERYRQSVSVGGAILCQLCKPPPLE----  181
+
+Query  112  AGGPATARCLDCADDLCQACAD-GHRCTRQTHSHR-VVDLVGYRAGWYDEEARERQAAQC  169
+                AT  C +C    C  C    H    Q   H   +  + +R           +   C
+Sbjct  182  ----ATKGCTECRATFCNECFKLFHPWGTQKAQHEPTLPTLSFRP----------KGLMC  227
+
+Query  170  PQHPGEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLA  228
+            P H  E   + C+ C +L+C+ CR+   H  H   P+  A +A +  L + L  +  N  
+Sbjct  228  PDHKEEVTHY-CKTCQRLVCQLCRVRRTHSGHKITPVLSAYQALKDKLTKSLTYILGNQD  286
+
+Query  229  ELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGA  288
+             ++ T++ E E   R  E + +   Q +E   +++R L A  +E    L   ++A EE  
+Sbjct  287  TVQ-TQICELEEAVRHTEVSGQ---QAKEEVSQLVRGLGAVLEEKRASL---LQAIEECQ  339
+
+Query  289  RERLGELEGQEQVAR  303
+            +ERL  L  Q Q  R
+Sbjct  340  QERLARLSAQIQEHR  354
+
+
+ Score = 31.6 bits (70),  Expect = 0.48, Method: Compositional matrix adjust.
+ Identities = 12/26 (46%), Positives = 14/26 (54%), Gaps = 0/26 (0%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDC  44
+           L C +C E  + P  LPC H  CQ C
+Sbjct  31  LLCPVCQEMYKQPLVLPCTHNVCQAC  56
+
+
+>NP_001243530.1 tripartite motif-containing protein 46 isoform 
+4 [Homo sapiens]
+Length=746
+
+ Score = 43.9 bits (102),  Expect = 5e-05, Method: Compositional matrix adjust.
+ Identities = 67/255 (26%), Positives = 102/255 (40%), Gaps = 37/255 (15%)
+
+Query  56   CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPA-CALC---PLMGGAS  111
+            CP C+  V +   G+A      F N  L+ V  R    +  G    C LC   PL     
+Sbjct  117  CPACQGDVELGERGLAGL----FRNLTLERVVERYRQSVSVGGAILCQLCKPPPLE----  168
+
+Query  112  AGGPATARCLDCADDLCQACAD-GHRCTRQTHSHR-VVDLVGYRAGWYDEEARERQAAQC  169
+                AT  C +C    C  C    H    Q   H   +  + +R           +   C
+Sbjct  169  ----ATKGCTECRATFCNECFKLFHPWGTQKAQHEPTLPTLSFRP----------KGLMC  214
+
+Query  170  PQHPGEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLA  228
+            P H  E   + C+ C +L+C+ CR+   H  H   P+  A +A +  L + L  +  N  
+Sbjct  215  PDHKEEVTHY-CKTCQRLVCQLCRVRRTHSGHKITPVLSAYQALKDKLTKSLTYILGNQD  273
+
+Query  229  ELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGA  288
+             ++ T++ E E   R  E + +   Q +E   +++R L A  +E    L   ++A EE  
+Sbjct  274  TVQ-TQICELEEAVRHTEVSGQ---QAKEEVSQLVRGLGAVLEEKRASL---LQAIEECQ  326
+
+Query  289  RERLGELEGQEQVAR  303
+            +ERL  L  Q Q  R
+Sbjct  327  QERLARLSAQIQEHR  341
+
+
+ Score = 32.3 bits (72),  Expect = 0.22, Method: Compositional matrix adjust.
+ Identities = 14/44 (32%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  1   MVSQGSSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDC  44
+           M ++G+  + ++ +  + L C +C E  + P  LPC H  CQ C
+Sbjct  1   MGAKGNGLTSMKNMEKELL-CPVCQEMYKQPLVLPCTHNVCQAC  43
+
+
+>NP_001243528.1 tripartite motif-containing protein 46 isoform 
+2 [Homo sapiens]
+Length=736
+
+ Score = 43.5 bits (101),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 67/255 (26%), Positives = 102/255 (40%), Gaps = 37/255 (15%)
+
+Query  56   CPECRESVPVPPAGVAAFKTNFFVNGLLDLVKARAGGDLRAGKPA-CALC---PLMGGAS  111
+            CP C+  V +   G+A      F N  L+ V  R    +  G    C LC   PL     
+Sbjct  107  CPACQGDVELGERGLAGL----FRNLTLERVVERYRQSVSVGGAILCQLCKPPPLE----  158
+
+Query  112  AGGPATARCLDCADDLCQACAD-GHRCTRQTHSHR-VVDLVGYRAGWYDEEARERQAAQC  169
+                AT  C +C    C  C    H    Q   H   +  + +R           +   C
+Sbjct  159  ----ATKGCTECRATFCNECFKLFHPWGTQKAQHEPTLPTLSFRP----------KGLMC  204
+
+Query  170  PQHPGEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEAVRARRPGLEELLAGVDNNLA  228
+            P H  E   + C+ C +L+C+ CR+   H  H   P+  A +A +  L + L  +  N  
+Sbjct  205  PDHKEEVTHY-CKTCQRLVCQLCRVRRTHSGHKITPVLSAYQALKDKLTKSLTYILGNQD  263
+
+Query  229  ELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRAHVEAAEEGA  288
+             ++ T++ E E   R  E + +   Q +E   +++R L A  +E    L   ++A EE  
+Sbjct  264  TVQ-TQICELEEAVRHTEVSGQ---QAKEEVSQLVRGLGAVLEEKRASL---LQAIEECQ  316
+
+Query  289  RERLGELEGQEQVAR  303
+            +ERL  L  Q Q  R
+Sbjct  317  QERLARLSAQIQEHR  331
+
+
+ Score = 31.2 bits (69),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 12/26 (46%), Positives = 14/26 (54%), Gaps = 0/26 (0%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDC  44
+           L C +C E  + P  LPC H  CQ C
+Sbjct  8   LLCPVCQEMYKQPLVLPCTHNVCQAC  33
+
+
+>NP_775828.1 E3 ubiquitin-protein ligase RNF152 [Homo sapiens]
+Length=203
+
+ Score = 42.0 bits (97),  Expect = 9e-05, Method: Compositional matrix adjust.
+ Identities = 26/63 (41%), Positives = 32/63 (51%), Gaps = 5/63 (8%)
+
+Query  11  LEALSSD-FLACKICLEQL---RVPKTLPCLHTYCQDCLAQLAEGSR-LRCPECRESVPV  65
+           +E LS D  L C+IC       R PK L C HT C  CL Q+    + +RCP CR    +
+Sbjct  1   METLSQDSLLECQICFNYYSPRRRPKLLDCKHTCCSVCLQQMRTSQKDVRCPWCRGVTKL  60
+
+Query  66  PPA  68
+           PP 
+Sbjct  61  PPG  63
+
+
+>NP_944606.2 tripartite motif-containing protein 73 [Homo sapiens]
+Length=250
+
+ Score = 41.6 bits (96),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 24/57 (42%), Positives = 32/57 (56%), Gaps = 4/57 (7%)
+
+Query  9   SLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESV  63
+           SLLE    D L C ICLE  +    L C H+YC+ CL  L+    +++RCP C + V
+Sbjct  6   SLLEL--EDRLQCPICLEVFKESLMLQCGHSYCKGCLVSLSYHLDTKVRCPMCWQVV  60
+
+
+>NP_001287681.1 E3 ubiquitin-protein ligase TRIM36 isoform 4 [Homo 
+sapiens]
+Length=573
+
+ Score = 42.0 bits (97),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 45/204 (22%), Positives = 85/204 (42%), Gaps = 25/204 (12%)
+
+Query  116  ATARCLDCADDLCQACADGHR--CTRQTHSHRVVDLVGYRAGWYDEEARERQAAQCPQHP  173
+            +T  C+DC+   C  C   H    T +     V     +R           +   CP+H 
+Sbjct  12   STKSCMDCSASYCNECFKIHHPWGTIKAQHEYVGPTTNFRP----------KILMCPEHE  61
+
+Query  174  GEALRFLCQPCSQLLCRECRL-DPHLDHPCLPLAEAVRARRPGLE---ELLAGVDNNL-A  228
+             E +   C+ C + +C  C+L   H +H    ++ A +  +  L    + L G ++ + +
+Sbjct  62   TERINMYCELCRRPVCHLCKLGGNHANHRVTTMSSAYKTLKEKLSKDIDYLIGKESQVKS  121
+
+Query  229  ELEATRLAEKEAL---ARLREQAA----KVVTQVEEASERVLRALLAQKQEVLGQLRAHV  281
+            ++    L  KE      R +E+A     K+   +EE    VL+A+ + K+  L + +  +
+Sbjct  122  QISELNLLMKETECNGERAKEEAITHFEKLFEVLEERKSSVLKAIDSSKKLRLDKFQTQM  181
+
+Query  282  EAAEEGARERLGELEGQEQVAREA  305
+            E   +G  E  G +   ++V +E 
+Sbjct  182  EEY-QGLLENNGLVGYAQEVLKET  204
+
+
+>NP_149082.1 E3 ubiquitin-protein ligase TRIM4 isoform beta [Homo 
+sapiens]
+Length=474
+
+ Score = 41.2 bits (95),  Expect = 3e-04, Method: Compositional matrix adjust.
+ Identities = 36/132 (27%), Positives = 54/132 (41%), Gaps = 19/132 (14%)
+
+Query  19   LACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESVPVPPAGVAAFKTN  76
+            L C ICL+  + P ++ C H +C+ CL +     G    CPECR      P+  AA + N
+Sbjct  10   LTCPICLDYFQDPVSIECGHNFCRGCLHRNWAPGGGPFPCPECRH-----PSAPAALRPN  64
+
+Query  77   FFVNGLLDLVKARAGGDLRAGKPACALCPLMGGASAGGPATARCLDCADDLCQACADGHR  136
+            + +  L +  + R  G +  G     LC          P    C D    +C  C +   
+Sbjct  65   WALARLTEKTQRRRLGPVPPG-----LC-----GRHWEPLRLFCEDDQRPVCLVCRESQE  114
+
+Query  137  CTRQTHSHRVVD  148
+               QTH+   +D
+Sbjct  115  --HQTHAMAPID  124
+
+
+>NP_001317429.1 bifunctional apoptosis regulator isoform 2 [Homo 
+sapiens]
+Length=325
+
+ Score = 40.8 bits (94),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 19/44 (43%), Positives = 25/44 (57%), Gaps = 1/44 (2%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLA-QLAEGSRLRCPECRE  61
+            +C  C + L  P TL C H++C+ CLA   A   +  CPECRE
+Sbjct  32  FSCHCCYDILVNPTTLNCGHSFCRHCLALWWASSKKTECPECRE  75
+
+
+>NP_690856.1 E3 ubiquitin-protein ligase UHRF2 [Homo sapiens]
+Length=802
+
+ Score = 41.2 bits (95),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 19/56 (34%), Positives = 27/56 (48%), Gaps = 1/56 (2%)
+
+Query  8    PSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+            P+ L+ L   F+ C  C E +  P T  C H  C+DCL +  +     CP CR  +
+Sbjct  721  PNFLKKLEQSFM-CVCCQELVYQPVTTECFHNVCKDCLQRSFKAQVFSCPACRHDL  775
+
+
+>NP_001013756.2 ret finger protein-like 4B [Homo sapiens]
+Length=263
+
+ Score = 40.0 bits (92),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 19/51 (37%), Positives = 28/51 (55%), Gaps = 3/51 (6%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLAQ-LAEGSRLR--CPECRESVPVP  66
+           L+C +CL+      +L C H +C DC+ + + E    R  CP CR+ V VP
+Sbjct  9   LSCPVCLDFFSCSISLSCTHVFCFDCIQRYILENHDFRAMCPLCRDVVKVP  59
+
+
+>NP_060543.5 E3 ubiquitin-protein ligase TRIM68 isoform 1 [Homo 
+sapiens]
+Length=485
+
+ Score = 39.3 bits (90),  Expect = 0.001, Method: Compositional matrix adjust.
+ Identities = 24/68 (35%), Positives = 36/68 (53%), Gaps = 9/68 (13%)
+
+Query  9   SLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAE------GSRLRCPECRES  62
+           +L+EA+  + +AC IC+  LR P ++ C H++C  CL+ L E           CP CR  
+Sbjct  5   ALVEAIVEE-VACPICMTFLREPMSIDCGHSFCHSCLSGLWEIPGESQNWGYTCPLCR--  61
+
+Query  63  VPVPPAGV  70
+            PV P  +
+Sbjct  62  APVQPRNL  69
+
+
+>NP_060677.2 E3 ubiquitin-protein ligase TRIM62 isoform 1 [Homo 
+sapiens]
+Length=475
+
+ Score = 38.9 bits (89),  Expect = 0.002, Method: Compositional matrix adjust.
+ Identities = 22/55 (40%), Positives = 30/55 (55%), Gaps = 6/55 (11%)
+
+Query  17  DFLACKICLEQLRVPKTLPCLHTYCQDCLA-----QLAEGSRLRCPECRESVPVP  66
+           D L C ICL   + P +L C H +C+ C+      Q A+G+R  CPECR +   P
+Sbjct  7   DELLCSICLSIYQDPVSLGCEHYFCRRCITEHWVRQEAQGAR-DCPECRRTFAEP  60
+
+
+ Score = 27.7 bits (60),  Expect = 5.8, Method: Compositional matrix adjust.
+ Identities = 33/123 (27%), Positives = 50/123 (41%), Gaps = 15/123 (12%)
+
+Query  164  RQAAQCPQHPGEALRFLCQPCSQLLCRECRLDPHLDHPCLPLAEAVRARRPGLEELLAGV  223
+            R A  C  H  + ++  C     LLC  C      D P L     V       +EL   +
+Sbjct  88   RAARPCQAH--DKVKLFCLTDRALLCFFC------DEPALHEQHQVTGIDDAFDELQREL  139
+
+Query  224  DNNLAELEATRLAEKEALARLREQAAKVV-------TQVEEASERVLRALLAQKQEVLGQ  276
+             + L  L+ +     EAL  L+ Q A+         T + EA ER+ R L  +++ +L +
+Sbjct  140  KDQLQALQDSEREHTEALQLLKRQLAETKSSTKSLRTTIGEAFERLHRLLRERQKAMLEE  199
+
+Query  277  LRA  279
+            L A
+Sbjct  200  LEA  202
+
+
+>NP_001276038.1 LON peptidase N-terminal domain and RING finger 
+protein 3 isoform 3 [Homo sapiens]
+Length=503
+
+ Score = 38.5 bits (88),  Expect = 0.003, Method: Compositional matrix adjust.
+ Identities = 20/65 (31%), Positives = 33/65 (51%), Gaps = 4/65 (6%)
+
+Query  2    VSQGSSPSL---LEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPE  58
+              QG  P+L   L +  +  L C +C+     P T PC HT+C  CL +  + +  +CP 
+Sbjct  189  TDQGDKPALSLPLASFDASDLECALCMRLFYEPVTTPCGHTFCLKCLERCLDHN-AKCPL  247
+
+Query  59   CRESV  63
+            C++ +
+Sbjct  248  CKDGL  252
+
+
+>NP_079054.3 LON peptidase N-terminal domain and RING finger protein 
+3 isoform 2 [Homo sapiens]
+Length=718
+
+ Score = 38.5 bits (88),  Expect = 0.003, Method: Compositional matrix adjust.
+ Identities = 20/65 (31%), Positives = 33/65 (51%), Gaps = 4/65 (6%)
+
+Query  2    VSQGSSPSL---LEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPE  58
+              QG  P+L   L +  +  L C +C+     P T PC HT+C  CL +  + +  +CP 
+Sbjct  404  TDQGDKPALSLPLASFDASDLECALCMRLFYEPVTTPCGHTFCLKCLERCLDHN-AKCPL  462
+
+Query  59   CRESV  63
+            C++ +
+Sbjct  463  CKDGL  467
+
+
+>NP_001349742.1 tripartite motif-containing protein 35 isoform 
+3 [Homo sapiens]
+Length=298
+
+ Score = 37.4 bits (85),  Expect = 0.005, Method: Compositional matrix adjust.
+ Identities = 42/142 (30%), Positives = 62/142 (44%), Gaps = 22/142 (15%)
+
+Query  2    VSQGSSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGS-RLRCPECR  60
+            VS G S S  E L      C +C +  R   TL C H +C+ C+++  E      CP C+
+Sbjct  7    VSPGPSRSFKEEL-----LCAVCYDPFRDAVTLRCGHNFCRGCVSRCWEVQVSPTCPVCK  61
+
+Query  61   ESVPVPPAGVAAFKTNFFVNGLLD-LVKARAGGDLRAGKPACALCPLMGGASAGGPATAR  119
+            +      A  A  +TN  +N L++ L++  A G          +C L  G       +  
+Sbjct  62   DR-----ASPADLRTNHTLNNLVEKLLREEAEGARWTSYRFSRVCRLHRGQ-----LSLF  111
+
+Query  120  CLDCADDLCQAC-AD----GHR  136
+            CL+  + LC +C AD    GHR
+Sbjct  112  CLEDKELLCCSCQADPRHQGHR  133
+
+
+>NP_741983.2 tripartite motif-containing protein 35 isoform 1 
+[Homo sapiens]
+Length=493
+
+ Score = 37.4 bits (85),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 42/142 (30%), Positives = 62/142 (44%), Gaps = 22/142 (15%)
+
+Query  2    VSQGSSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGS-RLRCPECR  60
+            VS G S S  E L      C +C +  R   TL C H +C+ C+++  E      CP C+
+Sbjct  7    VSPGPSRSFKEEL-----LCAVCYDPFRDAVTLRCGHNFCRGCVSRCWEVQVSPTCPVCK  61
+
+Query  61   ESVPVPPAGVAAFKTNFFVNGLLD-LVKARAGGDLRAGKPACALCPLMGGASAGGPATAR  119
+            +      A  A  +TN  +N L++ L++  A G          +C L  G       +  
+Sbjct  62   DR-----ASPADLRTNHTLNNLVEKLLREEAEGARWTSYRFSRVCRLHRGQ-----LSLF  111
+
+Query  120  CLDCADDLCQAC-AD----GHR  136
+            CL+  + LC +C AD    GHR
+Sbjct  112  CLEDKELLCCSCQADPRHQGHR  133
+
+
+>NP_001244954.1 tripartite motif-containing protein 60 [Homo sapiens]
+Length=471
+
+ Score = 37.4 bits (85),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 18/47 (38%), Positives = 25/47 (53%), Gaps = 2/47 (4%)
+
+Query  20  ACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESVP  64
+           +C ICLE L+ P T+ C H +C+ CL+   +       CP CR   P
+Sbjct  15  SCPICLEYLKDPVTINCGHNFCRSCLSVSWKDLDDTFPCPVCRFCFP  61
+
+
+>NP_689833.1 tripartite motif-containing protein 60 [Homo sapiens]
+Length=471
+
+ Score = 37.4 bits (85),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 18/47 (38%), Positives = 25/47 (53%), Gaps = 2/47 (4%)
+
+Query  20  ACKICLEQLRVPKTLPCLHTYCQDCLAQLAE--GSRLRCPECRESVP  64
+           +C ICLE L+ P T+ C H +C+ CL+   +       CP CR   P
+Sbjct  15  SCPICLEYLKDPVTINCGHNFCRSCLSVSWKDLDDTFPCPVCRFCFP  61
+
+
+>NP_001291424.1 tripartite motif-containing protein 35 isoform 
+2 [Homo sapiens]
+Length=266
+
+ Score = 37.0 bits (84),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 42/142 (30%), Positives = 62/142 (44%), Gaps = 22/142 (15%)
+
+Query  2    VSQGSSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGS-RLRCPECR  60
+            VS G S S  E L      C +C +  R   TL C H +C+ C+++  E      CP C+
+Sbjct  7    VSPGPSRSFKEEL-----LCAVCYDPFRDAVTLRCGHNFCRGCVSRCWEVQVSPTCPVCK  61
+
+Query  61   ESVPVPPAGVAAFKTNFFVNGLLD-LVKARAGGDLRAGKPACALCPLMGGASAGGPATAR  119
+            +      A  A  +TN  +N L++ L++  A G          +C L  G       +  
+Sbjct  62   DR-----ASPADLRTNHTLNNLVEKLLREEAEGARWTSYRFSRVCRLHRGQ-----LSLF  111
+
+Query  120  CLDCADDLCQAC-AD----GHR  136
+            CL+  + LC +C AD    GHR
+Sbjct  112  CLEDKELLCCSCQADPRHQGHR  133
+
+
+>NP_001186048.1 TRIM39-RPP21 protein [Homo sapiens]
+Length=503
+
+ Score = 36.6 bits (83),  Expect = 0.011, Method: Compositional matrix adjust.
+ Identities = 35/136 (26%), Positives = 60/136 (44%), Gaps = 26/136 (19%)
+
+Query  20   ACKICLEQLRVPKTLPCLHTYCQDCLAQLAEG--SRLRCPECRESVPVPPAGVAAFKTNF  77
+            +C +CLE L+ P  + C H +C+ C+ +  E       CP CR++     +   + + N 
+Sbjct  28   SCSVCLEYLKEPVIIECGHNFCKACITRWWEDLERDFPCPVCRKT-----SRYRSLRPNR  82
+
+Query  78   FVNGLLDLVKARAGGDLRAGKPAC---ALCPLMGGASAGGPATARCLDCADDLCQACADG  134
+             +  ++++ K      L+A K      +LCP    A      +  C +  + +C  CA  
+Sbjct  83   QLGSMVEIAK-----QLQAVKRKIRDESLCPQHHEA-----LSLFCYEDQEAVCLICAIS  132
+
+Query  135  HRCTRQTH-SHRVVDL  149
+            H     TH +H VV L
+Sbjct  133  H-----THRAHTVVPL  143
+
+
+>NP_057506.2 RING finger protein 141 [Homo sapiens]
+Length=230
+
+ Score = 35.4 bits (80),  Expect = 0.014, Method: Compositional matrix adjust.
+ Identities = 22/67 (33%), Positives = 32/67 (48%), Gaps = 9/67 (13%)
+
+Query  21   CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECR-------ESVPVPPAGVAAF  73
+            C IC++  R    LPC H++CQ C+ + ++  R  CP CR       ES  V  A     
+Sbjct  155  CCICMDG-RADLILPCAHSFCQKCIDKWSDRHR-NCPICRLQMTGANESWVVSDAPTEDD  212
+
+Query  74   KTNFFVN  80
+              N+ +N
+Sbjct  213  MANYILN  219
+
+
+>NP_009229.2 breast cancer type 1 susceptibility protein isoform 
+4 [Homo sapiens]
+Length=759
+
+ Score = 35.8 bits (81),  Expect = 0.023, Method: Compositional matrix adjust.
+ Identities = 15/48 (31%), Positives = 26/48 (54%), Gaps = 2/48 (4%)
+
+Query  18  FLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSR--LRCPECRESV  63
+            L C ICLE ++ P +  C H +C+ C+ +L    +   +CP C+  +
+Sbjct  21  ILECPICLELIKEPVSTKCDHIFCKFCMLKLLNQKKGPSQCPLCKNDI  68
+
+
+>NP_009230.2 breast cancer type 1 susceptibility protein isoform 
+5 [Homo sapiens]
+Length=699
+
+ Score = 35.4 bits (80),  Expect = 0.024, Method: Compositional matrix adjust.
+ Identities = 15/48 (31%), Positives = 26/48 (54%), Gaps = 2/48 (4%)
+
+Query  18  FLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSR--LRCPECRESV  63
+            L C ICLE ++ P +  C H +C+ C+ +L    +   +CP C+  +
+Sbjct  21  ILECPICLELIKEPVSTKCDHIFCKFCMLKLLNQKKGPSQCPLCKNDI  68
+
+
+>NP_001258871.1 tripartite motif-containing protein 77 isoform 
+2 [Homo sapiens]
+Length=373
+
+ Score = 35.0 bits (79),  Expect = 0.031, Method: Compositional matrix adjust.
+ Identities = 20/49 (41%), Positives = 25/49 (51%), Gaps = 2/49 (4%)
+
+Query  15  SSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLR--CPECRE  61
+           S+  L C IC + L  P T+ C H +C  CL  L E +     CP CRE
+Sbjct  9   STSELTCSICTDYLTDPVTICCGHRFCSPCLCLLWEDTLTPNCCPVCRE  57
+
+
+>NP_777563.2 RING finger protein 151 isoform 1 [Homo sapiens]
+Length=245
+
+ Score = 34.7 bits (78),  Expect = 0.032, Method: Compositional matrix adjust.
+ Identities = 17/59 (29%), Positives = 27/59 (46%), Gaps = 1/59 (2%)
+
+Query  5   GSSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+           G   +L  +       C +C   L+ P  LPC H +C+ C+ +     +  CP CR+ V
+Sbjct  4   GYDLNLFASPPDSNFVCSVCHGVLKRPARLPCSHIFCKKCILRWLARQKT-CPCCRKEV  61
+
+
+>NP_001358164.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]
+Length=192
+
+ Score = 34.3 bits (77),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 18/49 (37%), Positives = 25/49 (51%), Gaps = 8/49 (16%)
+
+Query  21  CKICLE----QLRVPKTLPCLHTYCQDCLAQLAEGS----RLRCPECRE  61
+           C +C          PK L C H++C +CLA L+  +    RL CP CR+
+Sbjct  13  CPVCWNPFNNTFHTPKMLDCCHSFCVECLAHLSLVTPARRRLLCPLCRQ  61
+
+
+>NP_659488.2 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]
+Length=192
+
+ Score = 34.3 bits (77),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 18/49 (37%), Positives = 25/49 (51%), Gaps = 8/49 (16%)
+
+Query  21  CKICLE----QLRVPKTLPCLHTYCQDCLAQLAEGS----RLRCPECRE  61
+           C +C          PK L C H++C +CLA L+  +    RL CP CR+
+Sbjct  13  CPVCWNPFNNTFHTPKMLDCCHSFCVECLAHLSLVTPARRRLLCPLCRQ  61
+
+
+>NP_001358165.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]
+Length=192
+
+ Score = 34.3 bits (77),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 18/49 (37%), Positives = 25/49 (51%), Gaps = 8/49 (16%)
+
+Query  21  CKICLE----QLRVPKTLPCLHTYCQDCLAQLAEGS----RLRCPECRE  61
+           C +C          PK L C H++C +CLA L+  +    RL CP CR+
+Sbjct  13  CPVCWNPFNNTFHTPKMLDCCHSFCVECLAHLSLVTPARRRLLCPLCRQ  61
+
+
+>NP_001358166.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]
+Length=192
+
+ Score = 34.3 bits (77),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 18/49 (37%), Positives = 25/49 (51%), Gaps = 8/49 (16%)
+
+Query  21  CKICLE----QLRVPKTLPCLHTYCQDCLAQLAEGS----RLRCPECRE  61
+           C +C          PK L C H++C +CLA L+  +    RL CP CR+
+Sbjct  13  CPVCWNPFNNTFHTPKMLDCCHSFCVECLAHLSLVTPARRRLLCPLCRQ  61
+
+
+>NP_001358163.1 E3 ubiquitin-protein ligase RNF183 [Homo sapiens]
+Length=192
+
+ Score = 34.3 bits (77),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 18/49 (37%), Positives = 25/49 (51%), Gaps = 8/49 (16%)
+
+Query  21  CKICLE----QLRVPKTLPCLHTYCQDCLAQLAEGS----RLRCPECRE  61
+           C +C          PK L C H++C +CLA L+  +    RL CP CR+
+Sbjct  13  CPVCWNPFNNTFHTPKMLDCCHSFCVECLAHLSLVTPARRRLLCPLCRQ  61
+
+
+>NP_689950.1 E3 ubiquitin-protein ligase RNF182 [Homo sapiens]
+Length=247
+
+ Score = 34.3 bits (77),  Expect = 0.038, Method: Compositional matrix adjust.
+ Identities = 26/80 (33%), Positives = 36/80 (45%), Gaps = 11/80 (14%)
+
+Query  12  EALSSDFLACKICLEQL----RVPKTLPCLHTYCQDCLAQLAEGSR-----LRCPECRES  62
+           E+ +SD L CKIC  +     R PK L C H  C  CL ++ +        + CP CR  
+Sbjct  11  ESQASDELECKICYNRYNLKQRKPKVLECCHRVCAKCLYKIIDFGDSPQGVIVCPFCRFE  70
+
+Query  63  VPVPPAGVAAF--KTNFFVN  80
+             +P   V++     N  VN
+Sbjct  71  TCLPDDEVSSLPDDNNILVN  90
+
+
+>NP_001341408.1 roquin-2 isoform 4 [Homo sapiens]
+Length=1134
+
+ Score = 34.7 bits (78),  Expect = 0.048, Method: Composition-based stats.
+ Identities = 18/46 (39%), Positives = 25/46 (54%), Gaps = 7/46 (15%)
+
+Query  16  SDFLACKICL----EQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCP  57
+           ++FL+C IC     E +  P +L C HT C+ CL +L    R  CP
+Sbjct  9   TEFLSCPICYNEFDENVHKPISLGCSHTVCKTCLNKL---HRKACP  51
+
+
+>NP_001341411.1 roquin-2 isoform 5 [Homo sapiens]
+Length=1153
+
+ Score = 34.7 bits (78),  Expect = 0.056, Method: Composition-based stats.
+ Identities = 18/46 (39%), Positives = 25/46 (54%), Gaps = 7/46 (15%)
+
+Query  16  SDFLACKICL----EQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCP  57
+           ++FL+C IC     E +  P +L C HT C+ CL +L    R  CP
+Sbjct  9   TEFLSCPICYNEFDENVHKPISLGCSHTVCKTCLNKL---HRKACP  51
+
+
+>NP_001003818.1 tripartite motif-containing protein 6 isoform 
+1 [Homo sapiens]
+Length=516
+
+ Score = 34.3 bits (77),  Expect = 0.060, Method: Compositional matrix adjust.
+ Identities = 23/68 (34%), Positives = 35/68 (51%), Gaps = 10/68 (15%)
+
+Query  2   VSQGSSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLA-------EGSRL  54
+           V+  +SP L++    + + C ICLE L  P ++ C H++CQ C+           EG R 
+Sbjct  26  VATMTSPVLVDI--REEVTCPICLELLTEPLSIDCGHSFCQACITPNGRESVIGQEGER-  82
+
+Query  55  RCPECRES  62
+            CP C+ S
+Sbjct  83  SCPVCQTS  90
+
+
+ Score = 30.0 bits (66),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 38/141 (27%), Positives = 61/141 (43%), Gaps = 20/141 (14%)
+
+Query  161  ARERQAAQCPQHPGEALRFLCQPCSQLLCREC-RLDPHLDHPCLPLAEAVRARRPGLEEL  219
+             ++ +A  C  H GE L+  CQ   +++C  C R   H  H    + E  +  +   +E 
+Sbjct  117  GKQLKAVLCADH-GEKLQLFCQEDGKVICWLCERSQEHRGHHTFLVEEVAQEYQEKFQES  175
+
+Query  220  LAGVDNNLAELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRA  279
+            L  + N   E EA +L      A +RE+      Q+E    R+        Q    QLR 
+Sbjct  176  LKKLKNE--EQEAEKLT-----AFIREKKTSWKNQMEPERCRI--------QTEFNQLRN  220
+
+Query  280  HVEAAEEGARERLGELEGQEQ  300
+             ++  E+  RE L +LE +E+
+Sbjct  221  ILDRVEQ--RE-LKKLEQEEK  238
+
+
+>NP_001229776.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_001229773.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_001229777.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_001229775.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_001229781.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_112225.2 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_001229774.1 E3 ubiquitin-protein ligase RNF146 isoform a [Homo 
+sapiens]
+Length=358
+
+ Score = 33.9 bits (76),  Expect = 0.070, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 24/44 (55%), Gaps = 1/44 (2%)
+
+Query  21  CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVP  64
+           C ICL+    P +LPC H +C  C+   +   + RC  CR+ +P
+Sbjct  36  CAICLQTCVHPVSLPCKHVFCYLCVKGASWLGK-RCALCRQEIP  78
+
+
+>NP_061153.1 E3 ubiquitin-protein ligase RNF114 [Homo sapiens]
+Length=228
+
+ Score = 33.5 bits (75),  Expect = 0.074, Method: Compositional matrix adjust.
+ Identities = 14/45 (31%), Positives = 22/45 (49%), Gaps = 0/45 (0%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C +CLE    P  +PC H +C  CL +  +  +  C  CR ++
+Sbjct  27  FTCPVCLEVYEKPVQVPCGHVFCSACLQECLKPKKPVCGVCRSAL  71
+
+
+>NP_001193555.1 tripartite motif-containing protein [Homo sapiens]
+Length=452
+
+ Score = 33.5 bits (75),  Expect = 0.090, Method: Compositional matrix adjust.
+ Identities = 20/71 (28%), Positives = 31/71 (44%), Gaps = 7/71 (10%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGS--RLRCPECRESVPVPPAGVAAFKTN  76
+           L C IC+     P T+ C H++C+ C     + S   ++C EC +S      G    KTN
+Sbjct  13  LICPICMNYFIDPVTIDCGHSFCRPCFYLNWKDSPFLVQCSECTKS-----TGQINLKTN  67
+
+Query  77  FFVNGLLDLVK  87
+                +  L +
+Sbjct  68  IHFKKMASLAR  78
+
+
+>NP_001335640.1 RING finger protein 151 isoform 2 [Homo sapiens]
+Length=90
+
+ Score = 31.2 bits (69),  Expect = 0.099, Method: Compositional matrix adjust.
+ Identities = 16/38 (42%), Positives = 22/38 (58%), Gaps = 2/38 (5%)
+
+Query  16  SDFLACKICLEQLRVPKTLPCLHTYCQDC-LAQLAEGS  52
+           S+F+ C +C   L+ P  LPC H +C+ C L  LA G 
+Sbjct  16  SNFV-CSVCHGVLKRPARLPCSHIFCKKCILRWLARGG  52
+
+
+>NP_001185880.1 E3 ubiquitin-protein ligase RNF103 isoform 2 [Homo 
+sapiens]
+Length=681
+
+ Score = 33.5 bits (75),  Expect = 0.100, Method: Compositional matrix adjust.
+ Identities = 16/43 (37%), Positives = 21/43 (49%), Gaps = 3/43 (7%)
+
+Query  21   CKICLEQLR---VPKTLPCLHTYCQDCLAQLAEGSRLRCPECR  60
+            C +CLE      +   LPC H + Q+C+     G R  CP CR
+Sbjct  617  CVVCLENFENGCLLMGLPCGHVFHQNCIVMWLAGGRHCCPVCR  659
+
+
+>NP_005658.1 E3 ubiquitin-protein ligase RNF103 isoform 1 [Homo 
+sapiens]
+Length=685
+
+ Score = 33.5 bits (75),  Expect = 0.10, Method: Compositional matrix adjust.
+ Identities = 16/43 (37%), Positives = 21/43 (49%), Gaps = 3/43 (7%)
+
+Query  21   CKICLEQLR---VPKTLPCLHTYCQDCLAQLAEGSRLRCPECR  60
+            C +CLE      +   LPC H + Q+C+     G R  CP CR
+Sbjct  621  CVVCLENFENGCLLMGLPCGHVFHQNCIVMWLAGGRHCCPVCR  663
+
+
+>NP_001358712.1 LON peptidase N-terminal domain and RING finger 
+protein 2 isoform 2 [Homo sapiens]
+Length=511
+
+ Score = 33.5 bits (75),  Expect = 0.11, Method: Compositional matrix adjust.
+ Identities = 17/48 (35%), Positives = 27/48 (56%), Gaps = 2/48 (4%)
+
+Query  16   SDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+            +DF  C +C+  L  P T PC HT+C  CL +  + +   CP C++ +
+Sbjct  202  TDF-ECALCMRLLFEPVTTPCGHTFCLKCLERCLDHAP-HCPLCKDKL  247
+
+
+>NP_477514.1 tripartite motif-containing protein 6 isoform 2 [Homo 
+sapiens]
+Length=488
+
+ Score = 33.1 bits (74),  Expect = 0.12, Method: Compositional matrix adjust.
+ Identities = 22/64 (34%), Positives = 32/64 (50%), Gaps = 10/64 (16%)
+
+Query  6   SSPSLLEALSSDFLACKICLEQLRVPKTLPCLHTYCQDCLAQLA-------EGSRLRCPE  58
+           +SP L++      + C ICLE L  P ++ C H++CQ C+           EG R  CP 
+Sbjct  2   TSPVLVDIREE--VTCPICLELLTEPLSIDCGHSFCQACITPNGRESVIGQEGER-SCPV  58
+
+Query  59  CRES  62
+           C+ S
+Sbjct  59  CQTS  62
+
+
+ Score = 30.0 bits (66),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 38/141 (27%), Positives = 61/141 (43%), Gaps = 20/141 (14%)
+
+Query  161  ARERQAAQCPQHPGEALRFLCQPCSQLLCREC-RLDPHLDHPCLPLAEAVRARRPGLEEL  219
+             ++ +A  C  H GE L+  CQ   +++C  C R   H  H    + E  +  +   +E 
+Sbjct  89   GKQLKAVLCADH-GEKLQLFCQEDGKVICWLCERSQEHRGHHTFLVEEVAQEYQEKFQES  147
+
+Query  220  LAGVDNNLAELEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQLRA  279
+            L  + N   E EA +L      A +RE+      Q+E    R+        Q    QLR 
+Sbjct  148  LKKLKNE--EQEAEKLT-----AFIREKKTSWKNQMEPERCRI--------QTEFNQLRN  192
+
+Query  280  HVEAAEEGARERLGELEGQEQ  300
+             ++  E+  RE L +LE +E+
+Sbjct  193  ILDRVEQ--RE-LKKLEQEEK  210
+
+
+>NP_001107033.1 E3 ubiquitin-protein ligase RNF180 isoform 1 [Homo 
+sapiens]
+Length=592
+
+ Score = 33.1 bits (74),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 3/50 (6%)
+
+Query  17   DFLACKICLEQLRVPKT-LPCLHTYCQDCLAQLAEG--SRLRCPECRESV  63
+            D   C +CL+    P    PC H +C+ CL  LA+   S   CP CR  +
+Sbjct  428  DSYICAVCLDVYFNPYMCYPCHHIFCEPCLRTLAKDNPSSTPCPLCRTII  477
+
+
+>NP_001154819.1 E3 ubiquitin-protein ligase CHFR isoform 5 [Homo 
+sapiens]
+Length=572
+
+ Score = 33.1 bits (74),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 19/43 (44%), Positives = 24/43 (56%), Gaps = 2/43 (5%)
+
+Query  19   LACKICLEQLRVPKTL-PCLHTYCQDCLAQLAEGSRLRCPECR  60
+            L C IC + L    +L PC+HT+C  C +   E S L CP CR
+Sbjct  210  LTCIICQDLLHDCVSLQPCMHTFCAACYSGWMERSSL-CPTCR  251
+
+
+>NP_060693.2 E3 ubiquitin-protein ligase CHFR isoform 4 [Homo 
+sapiens]
+Length=623
+
+ Score = 33.1 bits (74),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 19/43 (44%), Positives = 24/43 (56%), Gaps = 2/43 (5%)
+
+Query  19   LACKICLEQLRVPKTL-PCLHTYCQDCLAQLAEGSRLRCPECR  60
+            L C IC + L    +L PC+HT+C  C +   E S L CP CR
+Sbjct  261  LTCIICQDLLHDCVSLQPCMHTFCAACYSGWMERSSL-CPTCR  302
+
+
+>NP_001287818.1 tripartite motif-containing protein 67 isoform 
+2 [Homo sapiens]
+Length=721
+
+ Score = 33.1 bits (74),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 58/261 (22%), Positives = 89/261 (34%), Gaps = 40/261 (15%)
+
+Query  54   LRCPECRESVPVPPAGVAAFKTNFFVNGLLDLVK----ARAGGDLRAGKPACALCPLMGG  109
+            + CP+C  S  +   G+  F+ N  +  ++   +    A  G    A    C LC     
+Sbjct  117  ITCPQCHRSASLDHRGLRGFQRNRLLEAIVQRYQQGRGAVPGTSAAAAVAICQLC----D  172
+
+Query  110  ASAGGPATARCLDCADDLCQACA-DGHRCTRQTHSHRV--------VDLVGYRAGWYDEE  160
+             +   PA   C  C    C AC    H        HR+            G         
+Sbjct  173  RTPPEPAATLCEQCDVLYCSACQLKCHPSRGPFAKHRLGAPSGGGGCKSPGGAGAGATGG  232
+
+Query  161  ARERQAAQCPQHPGEALRFLCQPCSQLLCRECRLDP-HLDHPCLPLAEAVRARRPGLEEL  219
+            +  R+   CP+H  E     C  C   +C  C  +  H  H   PL    +  +  L + 
+Sbjct  233  STARKFPTCPEHEMENYSMYCVSCRTPVCYLCLEEGRHAKHEVKPLGAMWKQHKAQLSQA  292
+
+Query  220  LAGVDN---------------------NLAELEATRLAEKEALAR-LREQAAKVVTQVEE  257
+            L GV +                     N  + EA  +A+ +AL   L  Q AK++T+V +
+Sbjct  293  LNGVSDKAKEAKEFLVQLKNILQQIQENGLDYEACLVAQCDALVDALTRQKAKLLTKVTK  352
+
+Query  258  ASERVLRALLAQKQEVLGQLR  278
+              E  L+ +  Q      +LR
+Sbjct  353  EREHKLKMVWDQINHCTLKLR  373
+
+
+>NP_116070.2 tripartite motif-containing protein 51 [Homo sapiens]
+Length=452
+
+ Score = 32.7 bits (73),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 26/47 (55%), Gaps = 2/47 (4%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRL--RCPECRESV  63
+           L C IC+     P T+ C H++C+ CL    + + +  +C EC+++ 
+Sbjct  13  LTCPICMNYFLDPVTIDCGHSFCRPCLYLNWQDTAVLAQCSECKKTT  59
+
+
+>NP_061935.1 E3 ubiquitin-protein ligase RNF186 [Homo sapiens]
+Length=227
+
+ Score = 32.0 bits (71),  Expect = 0.22, Method: Compositional matrix adjust.
+ Identities = 23/72 (32%), Positives = 32/72 (44%), Gaps = 7/72 (10%)
+
+Query  19   LACKICLEQL---RVPKTLPCLHTYCQDCLAQLA----EGSRLRCPECRESVPVPPAGVA  71
+            L C +C E     R+PK L C H +C  CL  L         + CP CR+   VP   + 
+Sbjct  38   LECLVCREPYSCPRLPKLLACQHAFCAICLKLLLCVQDNTWSITCPLCRKVTAVPGGLIC  97
+
+Query  72   AFKTNFFVNGLL  83
+            + + +  V G L
+Sbjct  98   SLRDHEAVVGQL  109
+
+
+>NP_001306886.1 E3 ubiquitin-protein ligase RNF220 isoform 2 [Homo 
+sapiens]
+Length=353
+
+ Score = 32.0 bits (71),  Expect = 0.24, Method: Compositional matrix adjust.
+ Identities = 14/44 (32%), Positives = 25/44 (57%), Gaps = 2/44 (5%)
+
+Query  17   DFLACKICLEQLRVPKT-LPCLHTYCQDCLAQLAEGSRLRCPEC  59
+            D   C IC++   +P T + C H +C++C  +   G++  CP+C
+Sbjct  297  DRYKCLICMDSYSMPLTSIQCWHVHCEECWLRTL-GAKKLCPQC  339
+
+
+>NP_001008275.2 tripartite motif-containing protein 72 [Homo sapiens]
+Length=477
+
+ Score = 32.0 bits (71),  Expect = 0.28, Method: Compositional matrix adjust.
+ Identities = 24/73 (33%), Positives = 35/73 (48%), Gaps = 15/73 (21%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLAQL-----AEGSRLRCPECRESVPVPPAGVAAF  73
+           L+C +CL+    P T  C H++C+ CL ++     A+G+ L CP C+      P    A 
+Sbjct  12  LSCPLCLQLFDAPVTAECGHSFCRACLGRVAGEPAADGTVL-CPCCQA-----PTRPQAL  65
+
+Query  74  KTNF----FVNGL  82
+            TN      V GL
+Sbjct  66  STNLQLARLVEGL  78
+
+
+>NP_001357242.1 E3 ubiquitin-protein ligase RNF167 isoform f precursor 
+[Homo sapiens]
+Length=308
+
+ Score = 31.6 bits (70),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 18/52 (35%), Positives = 25/52 (48%), Gaps = 9/52 (17%)
+
+Query  18   FLACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+            +  C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  185  YDVCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  233
+
+
+>NP_057209.3 E3 ubiquitin-protein ligase RNFT1 [Homo sapiens]
+Length=435
+
+ Score = 31.6 bits (70),  Expect = 0.37, Method: Compositional matrix adjust.
+ Identities = 14/43 (33%), Positives = 21/43 (49%), Gaps = 1/43 (2%)
+
+Query  21   CKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+            C IC  + + P  L C H +C++C+  L       CP CR  +
+Sbjct  375  CSICQAEFQKPILLICQHIFCEECMT-LWFNREKTCPLCRTVI  416
+
+
+>NP_001307288.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001307287.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001307285.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001307290.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001357234.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001307289.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001307286.1 E3 ubiquitin-protein ligase RNF167 isoform a precursor 
+[Homo sapiens]
+Length=350
+
+ Score = 31.6 bits (70),  Expect = 0.39, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  229  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  275
+
+
+>NP_001357236.1 E3 ubiquitin-protein ligase RNF167 isoform d precursor 
+[Homo sapiens]
+Length=349
+
+ Score = 31.6 bits (70),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  228  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  274
+
+
+>NP_001357235.1 E3 ubiquitin-protein ligase RNF167 isoform d precursor 
+[Homo sapiens]
+Length=349
+
+ Score = 31.6 bits (70),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  228  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  274
+
+
+>NP_001357232.1 E3 ubiquitin-protein ligase RNF167 isoform c precursor 
+[Homo sapiens]
+Length=374
+
+ Score = 31.2 bits (69),  Expect = 0.47, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  253  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  299
+
+
+>NP_001357233.1 E3 ubiquitin-protein ligase RNF167 isoform c precursor 
+[Homo sapiens]
+Length=374
+
+ Score = 31.2 bits (69),  Expect = 0.47, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  253  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  299
+
+
+>NP_001307294.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo 
+sapiens]
+Length=315
+
+ Score = 31.2 bits (69),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  194  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  240
+
+
+>NP_001307291.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo 
+sapiens]
+Length=315
+
+ Score = 31.2 bits (69),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  194  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  240
+
+
+>NP_001357240.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo 
+sapiens]
+Length=315
+
+ Score = 31.2 bits (69),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  194  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  240
+
+
+>NP_001307292.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo 
+sapiens]
+Length=315
+
+ Score = 31.2 bits (69),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  194  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  240
+
+
+>NP_001307293.1 E3 ubiquitin-protein ligase RNF167 isoform b [Homo 
+sapiens]
+Length=315
+
+ Score = 31.2 bits (69),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  194  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  240
+
+
+>NP_001357237.1 E3 ubiquitin-protein ligase RNF167 isoform e [Homo 
+sapiens]
+Length=339
+
+ Score = 30.8 bits (68),  Expect = 0.62, Method: Compositional matrix adjust.
+ Identities = 18/50 (36%), Positives = 24/50 (48%), Gaps = 9/50 (18%)
+
+Query  20   ACKICLE------QLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESV  63
+             C ICL+      +LRV   LPC H Y   C+      +R  CP C++ V
+Sbjct  218  VCAICLDEYEDGDKLRV---LPCAHAYHSRCVDPWLTQTRKTCPICKQPV  264
+
+
+>NP_057710.3 RNA-binding E3 ubiquitin-protein ligase MEX3C [Homo 
+sapiens]
+Length=659
+
+ Score = 30.8 bits (68),  Expect = 0.69, Method: Compositional matrix adjust.
+ Identities = 14/44 (32%), Positives = 22/44 (50%), Gaps = 1/44 (2%)
+
+Query  21   CKICLEQLRVPKTLPCLHT-YCQDCLAQLAEGSRLRCPECRESV  63
+            C IC E   +   +PC H  +C +C  ++ E     CP C+ +V
+Sbjct  608  CVICFENEVIAALVPCGHNLFCMECANKICEKRTPSCPVCQTAV  651
+
+
+>NP_067629.2 tripartite motif-containing protein 34 isoform 1 
+[Homo sapiens]
+Length=488
+
+ Score = 30.4 bits (67),  Expect = 0.84, Method: Compositional matrix adjust.
+ Identities = 17/47 (36%), Positives = 24/47 (51%), Gaps = 6/47 (13%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCL------AQLAEGSRLRCPEC  59
+           + C ICLE L  P +L C H+ C+ C+      A  + G +  CP C
+Sbjct  13  VTCPICLELLTEPLSLDCGHSLCRACITVSNKEAVTSMGGKSSCPVC  59
+
+
+>NP_001003827.1 tripartite motif-containing protein 34 isoform 
+1 [Homo sapiens]
+Length=488
+
+ Score = 30.4 bits (67),  Expect = 0.84, Method: Compositional matrix adjust.
+ Identities = 17/47 (36%), Positives = 24/47 (51%), Gaps = 6/47 (13%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCL------AQLAEGSRLRCPEC  59
+           + C ICLE L  P +L C H+ C+ C+      A  + G +  CP C
+Sbjct  13  VTCPICLELLTEPLSLDCGHSLCRACITVSNKEAVTSMGGKSSCPVC  59
+
+
+>NP_569074.2 tripartite motif-containing protein 34 isoform 3 
+[Homo sapiens]
+Length=270
+
+ Score = 30.0 bits (66),  Expect = 0.92, Method: Compositional matrix adjust.
+ Identities = 17/47 (36%), Positives = 24/47 (51%), Gaps = 6/47 (13%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCL------AQLAEGSRLRCPEC  59
+           + C ICLE L  P +L C H+ C+ C+      A  + G +  CP C
+Sbjct  13  VTCPICLELLTEPLSLDCGHSLCRACITVSNKEAVTSMGGKSSCPVC  59
+
+
+>NP_001127911.1 pleckstrin homology-like domain family B member 
+2 isoform a [Homo sapiens]
+Length=1253
+
+ Score = 30.4 bits (67),  Expect = 1.1, Method: Composition-based stats.
+ Identities = 30/117 (26%), Positives = 54/117 (46%), Gaps = 19/117 (16%)
+
+Query  217  EELLAGVDNNLAELEATRL-----------AEKEALARLREQAAKVVTQVEEASERV---  262
+            +E+L  ++  +AELE   +           AE+E L RL+E  ++  TQ++   E +   
+Sbjct  644  KEILDHLNRKIAELEKNIVGEKTKEKVKLDAEREKLERLQELYSEQKTQLDNCPESMREQ  703
+
+Query  263  LRALLAQKQEVLGQLRAHVEAAEEGARERLGELEGQ-----EQVAREAAAFARRVLS  314
+            L+  L +  ++L     H E  E    E    L+ +     +Q+ RE A + R ++S
+Sbjct  704  LQQQLKRDADLLDVESKHFEDLEFQQLEHESRLDEEKENLTQQLLREVAEYQRNIVS  760
+
+
+>NP_073599.2 E3 ubiquitin-protein transferase RMND5B isoform a 
+[Homo sapiens]
+Length=393
+
+ Score = 30.0 bits (66),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 12/29 (41%), Positives = 16/29 (55%), Gaps = 0/29 (0%)
+
+Query  31   PKTLPCLHTYCQDCLAQLAEGSRLRCPEC  59
+            P  L C H   +D L +L  G +L+CP C
+Sbjct  351  PIKLICGHVISRDALNKLINGGKLKCPYC  379
+
+
+>NP_001275724.1 E3 ubiquitin-protein transferase RMND5B isoform 
+b [Homo sapiens]
+Length=380
+
+ Score = 30.0 bits (66),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 12/29 (41%), Positives = 16/29 (55%), Gaps = 0/29 (0%)
+
+Query  31   PKTLPCLHTYCQDCLAQLAEGSRLRCPEC  59
+            P  L C H   +D L +L  G +L+CP C
+Sbjct  338  PIKLICGHVISRDALNKLINGGKLKCPYC  366
+
+
+>NP_001167589.1 RNA-binding protein MEX3D isoform 2 [Homo sapiens]
+Length=666
+
+ Score = 30.0 bits (66),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 14/41 (34%), Positives = 20/41 (49%), Gaps = 1/41 (2%)
+
+Query  21   CKICLEQLRVPKTLPCLHT-YCQDCLAQLAEGSRLRCPECR  60
+            C +C E   +   +PC H  +C DC  ++   S   CP CR
+Sbjct  600  CVVCAEGEVMAALVPCGHNLFCMDCAVRICGKSEPECPACR  640
+
+
+>NP_001098992.1 tripartite motif-containing protein 49D [Homo 
+sapiens]
+Length=452
+
+ Score = 29.6 bits (65),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 11/27 (41%), Positives = 15/27 (56%), Gaps = 0/27 (0%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCL  45
+           L C ICL     P T+ C H++C+ C 
+Sbjct  13  LTCPICLNYFIDPVTIDCGHSFCRPCF  39
+
+
+>NP_001193556.1 tripartite motif-containing protein 49D [Homo 
+sapiens]
+Length=452
+
+ Score = 29.6 bits (65),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 11/27 (41%), Positives = 15/27 (56%), Gaps = 0/27 (0%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCL  45
+           L C ICL     P T+ C H++C+ C 
+Sbjct  13  LTCPICLNYFIDPVTIDCGHSFCRPCF  39
+
+
+>NP_001171922.1 RING finger protein 17 isoform 2 [Homo sapiens]
+Length=1619
+
+ Score = 29.6 bits (65),  Expect = 1.7, Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 17/32 (53%), Gaps = 0/32 (0%)
+
+Query  34  LPCLHTYCQDCLAQLAEGSRLRCPECRESVPV  65
+           L C H +C+ CL    E + + CP+C  +  V
+Sbjct  49  LQCGHAFCELCLLMTEECTTIICPDCEVATAV  80
+
+
+>NP_112567.2 RING finger protein 17 isoform 1 [Homo sapiens]
+Length=1623
+
+ Score = 29.6 bits (65),  Expect = 1.7, Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 17/32 (53%), Gaps = 0/32 (0%)
+
+Query  34  LPCLHTYCQDCLAQLAEGSRLRCPECRESVPV  65
+           L C H +C+ CL    E + + CP+C  +  V
+Sbjct  49  LQCGHAFCELCLLMTEECTTIICPDCEVATAV  80
+
+
+>NP_001004342.3 tripartite motif-containing protein 67 isoform 
+1 [Homo sapiens]
+Length=783
+
+ Score = 29.3 bits (64),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 15/48 (31%), Positives = 22/48 (46%), Gaps = 4/48 (8%)
+
+Query  19  LACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLRCPECRESVPVP  66
+           L C +C    R P  LPC H  C  C   +A    ++ P+  + +P P
+Sbjct  5   LKCPVCGSLFREPIILPCSHNVCLPCARTIA----VQTPDGEQHLPQP  48
+
+
+ Score = 28.1 bits (61),  Expect = 5.1, Method: Compositional matrix adjust.
+ Identities = 57/283 (20%), Positives = 89/283 (31%), Gaps = 62/283 (22%)
+
+Query  54   LRCPECRESVPVPPAGVAAFKTNFFVNGLLDLVK----ARAGGDLRAGKPACALCPLMGG  109
+            + CP+C  S  +   G+  F+ N  +  ++   +    A  G    A    C LC     
+Sbjct  157  ITCPQCHRSASLDHRGLRGFQRNRLLEAIVQRYQQGRGAVPGTSAAAAVAICQLC----D  212
+
+Query  110  ASAGGPATARCLDCADDLCQACA-DGHRCTRQTHSHRVVDL--------------VGYRA  154
+             +   PA   C  C    C AC    H        HR+V                 G   
+Sbjct  213  RTPPEPAATLCEQCDVLYCSACQLKCHPSRGPFAKHRLVQPPPPPPPPAEAASGPTGTAQ  272
+
+Query  155  G----------------WYDEEARERQAAQCPQHPGEALRFLCQPCSQLLCRECRLDP-H  197
+            G                     +  R+   CP+H  E     C  C   +C  C  +  H
+Sbjct  273  GAPSGGGGCKSPGGAGAGATGGSTARKFPTCPEHEMENYSMYCVSCRTPVCYLCLEEGRH  332
+
+Query  198  LDHPCLPLAEAVRARRPGLEELLAGVDNNLAELEATRLAEKEALARLRE-----------  246
+              H   PL    +  +  L + L GV +   E +   +  K  L +++E           
+Sbjct  333  AKHEVKPLGAMWKQHKAQLSQALNGVSDKAKEAKEFLVQLKNILQQIQENGLDYEACLVA  392
+
+Query  247  -----------QAAKVVTQVEEASERVLRALLAQKQEVLGQLR  278
+                       Q AK++T+V +  E  L+ +  Q      +LR
+Sbjct  393  QCDALVDALTRQKAKLLTKVTKEREHKLKMVWDQINHCTLKLR  435
+
+
+>NP_003077.2 snRNA-activating protein complex subunit 4 [Homo 
+sapiens]
+Length=1469
+
+ Score = 29.3 bits (64),  Expect = 2.5, Method: Compositional matrix adjust.
+ Identities = 13/34 (38%), Positives = 20/34 (59%), Gaps = 2/34 (6%)
+
+Query  95    RAGKPAC--ALCPLMGGASAGGPATARCLDCADD  126
+             R G+P C  A CP+ G   +G  + + CLD ++D
+Sbjct  1414  RDGQPGCTTATCPIQGAPDSGKCSASSCLDTSND  1447
+
+
+>NP_001272414.1 E3 ubiquitin-protein ligase NEURL3 isoform a [Homo 
+sapiens]
+Length=262
+
+ Score = 28.1 bits (61),  Expect = 3.7, Method: Compositional matrix adjust.
+ Identities = 14/44 (32%), Positives = 22/44 (50%), Gaps = 2/44 (5%)
+
+Query  21   CKICLEQLRVPKTLPCLHTY-CQDCLAQLAEGSRLRCPECRESV  63
+            C IC       + +PC HTY C+ C  ++   +  +CP CR  +
+Sbjct  202  CAICFYHAANTRLVPCGHTYFCRYCAWRVFSDT-AKCPVCRWQI  244
+
+
+>NP_001087194.1 RNA-binding protein MEX3A [Homo sapiens]
+Length=520
+
+ Score = 28.5 bits (62),  Expect = 4.2, Method: Compositional matrix adjust.
+ Identities = 12/40 (30%), Positives = 19/40 (48%), Gaps = 1/40 (3%)
+
+Query  21   CKICLEQLRVPKTLPCLHT-YCQDCLAQLAEGSRLRCPEC  59
+            C +C E       +PC H  +C +C  ++ E +   CP C
+Sbjct  469  CMVCFESEVTAALVPCGHNLFCMECAVRICERTDPECPVC  508
+
+
+>NP_001190991.1 COMMD3-BMI1 read-through protein [Homo sapiens]
+Length=469
+
+ Score = 28.1 bits (61),  Expect = 4.3, Method: Compositional matrix adjust.
+ Identities = 10/26 (38%), Positives = 17/26 (65%), Gaps = 1/26 (4%)
+
+Query  34   LPCLHTYCQDCLAQLAEGSRLRCPEC  59
+            + CLH++C+ C+ +  E S+  CP C
+Sbjct  175  IECLHSFCKTCIVRYLETSKY-CPIC  199
+
+
+>NP_001138344.1 cilia- and flagella-associated protein 73 [Homo 
+sapiens]
+Length=308
+
+ Score = 28.1 bits (61),  Expect = 4.9, Method: Compositional matrix adjust.
+ Identities = 50/150 (33%), Positives = 67/150 (45%), Gaps = 21/150 (14%)
+
+Query  175  EALRFLCQPCSQLLCRECRLDPHLD--HPCLPLAEAVRARRPGLEE---LLAGVDNNLAE  229
+            EALR   Q   +L     RL   L    PC  L E      PG +E   L+A  D     
+Sbjct  115  EALRLWTQ-LQELRREHARLQRRLKRLEPCARLLEQALELLPGFQEVPELVARFDG----  169
+
+Query  230  LEATRLAEKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVL--GQLRAHVEAAEEG  287
+                 LAE +A  RLRE+  + + ++E A  R+ +   A   EVL  GQ RA ++   E 
+Sbjct  170  -----LAETQAALRLRER--EQLAELEAARARLQQLRDAWPDEVLAQGQRRAQLQERLEA  222
+
+Query  288  ARERLGELEGQEQVAREAAAFARRVLSLGR  317
+            ARER  + E +    +  A  A + L LGR
+Sbjct  223  ARERTLQWESKWIQIQNTA--AEKTLLLGR  250
+
+
+>NP_001273562.1 tripartite motif-containing protein 40 isoform 
+a [Homo sapiens]
+Length=258
+
+ Score = 27.7 bits (60),  Expect = 4.9, Method: Compositional matrix adjust.
+ Identities = 16/46 (35%), Positives = 22/46 (48%), Gaps = 4/46 (9%)
+
+Query  20  ACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLR----CPECRE  61
+            C IC E L+   +  C H +C+ CL Q  E +       CP CR+
+Sbjct  13  VCPICQESLKEAVSTNCGHLFCRVCLTQHVEKASASGVFCCPLCRK  58
+
+
+>NP_001135763.2 E3 ubiquitin-protein ligase MGRN1 isoform 4 [Homo 
+sapiens]
+Length=530
+
+ Score = 28.1 bits (61),  Expect = 5.1, Method: Compositional matrix adjust.
+ Identities = 18/44 (41%), Positives = 19/44 (43%), Gaps = 8/44 (18%)
+
+Query  21   CKICLEQLRVPKTLPCLH----TYCQDCLAQLAEGSRLRCPECR  60
+            C +CL  LR    LPC H    T C D L   A      CP CR
+Sbjct  278  CVVCLSDLRDTLILPCRHLCLCTSCADTLRYQANN----CPICR  317
+
+
+>NP_001135761.2 E3 ubiquitin-protein ligase MGRN1 isoform 2 [Homo 
+sapiens]
+Length=554
+
+ Score = 28.1 bits (61),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 18/44 (41%), Positives = 19/44 (43%), Gaps = 8/44 (18%)
+
+Query  21   CKICLEQLRVPKTLPCLH----TYCQDCLAQLAEGSRLRCPECR  60
+            C +CL  LR    LPC H    T C D L   A      CP CR
+Sbjct  278  CVVCLSDLRDTLILPCRHLCLCTSCADTLRYQANN----CPICR  317
+
+
+>NP_619645.1 tripartite motif-containing protein 40 isoform b 
+[Homo sapiens]
+Length=229
+
+ Score = 27.7 bits (60),  Expect = 5.7, Method: Compositional matrix adjust.
+ Identities = 16/46 (35%), Positives = 22/46 (48%), Gaps = 4/46 (9%)
+
+Query  20  ACKICLEQLRVPKTLPCLHTYCQDCLAQLAEGSRLR----CPECRE  61
+            C IC E L+   +  C H +C+ CL Q  E +       CP CR+
+Sbjct  13  VCPICQESLKEAVSTNCGHLFCRVCLTQHVEKASASGVFCCPLCRK  58
+
+
+>NP_056061.1 E3 ubiquitin-protein ligase MGRN1 isoform 1 [Homo 
+sapiens]
+Length=576
+
+ Score = 28.1 bits (61),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 18/44 (41%), Positives = 19/44 (43%), Gaps = 8/44 (18%)
+
+Query  21   CKICLEQLRVPKTLPCLH----TYCQDCLAQLAEGSRLRCPECR  60
+            C +CL  LR    LPC H    T C D L   A      CP CR
+Sbjct  278  CVVCLSDLRDTLILPCRHLCLCTSCADTLRYQANN----CPICR  317
+
+
+>NP_001357464.1 E3 ubiquitin-protein ligase RFWD3 isoform 1 [Homo 
+sapiens]
+Length=774
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20   ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+             C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  286  TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  332
+
+
+>NP_001357463.1 E3 ubiquitin-protein ligase RFWD3 isoform 1 [Homo 
+sapiens]
+Length=774
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20   ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+             C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  286  TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  332
+
+
+>NP_060594.3 E3 ubiquitin-protein ligase RFWD3 isoform 1 [Homo 
+sapiens]
+Length=774
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20   ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+             C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  286  TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  332
+
+
+>NP_001357469.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo 
+sapiens]
+Length=496
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20  ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+            C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  8   TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  54
+
+
+>NP_001357468.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo 
+sapiens]
+Length=496
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20  ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+            C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  8   TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  54
+
+
+>NP_001357471.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo 
+sapiens]
+Length=496
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20  ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+            C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  8   TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  54
+
+
+>NP_001357466.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo 
+sapiens]
+Length=496
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20  ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+            C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  8   TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  54
+
+
+>NP_001357472.1 E3 ubiquitin-protein ligase RFWD3 isoform 3 [Homo 
+sapiens]
+Length=496
+
+ Score = 27.7 bits (60),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20  ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+            C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  8   TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  54
+
+
+>NP_000309.2 peroxisome biogenesis factor 2 [Homo sapiens]
+Length=305
+
+ Score = 27.7 bits (60),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/44 (30%), Positives = 19/44 (43%), Gaps = 1/44 (2%)
+
+Query  21   CKICLEQLRVPKTLPCLHTYCQDCL-AQLAEGSRLRCPECRESV  63
+            C +C E   +P T+ C H +C  C  +         CP+C   V
+Sbjct  244  CALCGEWPTMPHTIGCEHIFCYFCAKSSFLFDVYFTCPKCGTEV  287
+
+
+>NP_001357465.1 E3 ubiquitin-protein ligase RFWD3 isoform 2 [Homo 
+sapiens]
+Length=715
+
+ Score = 27.7 bits (60),  Expect = 7.2, Method: Compositional matrix adjust.
+ Identities = 14/47 (30%), Positives = 21/47 (45%), Gaps = 5/47 (11%)
+
+Query  20   ACKICLEQLRVP-----KTLPCLHTYCQDCLAQLAEGSRLRCPECRE  61
+             C ICLEQ           L C H +   C++   +G   +CP+C +
+Sbjct  286  TCTICLEQWTNAGDHRLSALRCGHLFGYRCISTWLKGQVRKCPQCNK  332
+
+
+>NP_055535.2 STE20-like serine/threonine-protein kinase isoform 
+1 [Homo sapiens]
+Length=1235
+
+ Score = 27.3 bits (59),  Expect = 8.5, Method: Composition-based stats.
+ Identities = 21/69 (30%), Positives = 38/69 (55%), Gaps = 2/69 (3%)
+
+Query  237  EKEALARLREQAAKVVTQVEEASERVLRALLAQKQEVLGQL-RAHVEAAEEGARERLGEL  295
+            E+E   RLR++A ++  + E+   +    L  +K+EV+ ++ +A  E  +E  + R  EL
+Sbjct  893  EQEHTNRLRDEAKRIKGEQEKELSKFQNMLKNRKKEVINEVEKAPKELRKELMKRRKEEL  952
+
+Query  296  EGQEQVARE  304
+              Q Q A+E
+Sbjct  953  -AQSQHAQE  960
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.134    0.409    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1348192160
+
+
+  Database: human.1.protein.faa
+    Posted date:  May 7, 2020  11:23 AM
+  Number of letters in database: 7,437,115
+  Number of sequences in database:  14,775
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

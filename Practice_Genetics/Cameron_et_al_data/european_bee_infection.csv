@@ -1,0 +1,529 @@
+Sample,Bombus species,Site Name,Infected by Nosema?,Caste
+DM11.01,terrestris,DM11.site01,Y,M
+DM11.02,terrestris,DM11.site01,Y,M
+DM11.03,lucorum,DM11.site01,N,M
+DM11.04,terrestris,DM11.site01,N,M
+DM11.05,lucorum,DM11.site01,Y,M
+DM11.06,lucorum,DM11.site01,N,M
+DM11.07,terrestris,DM11.site01,Y,M
+DM11.08,terrestris,DM11.site01,N,M
+DM11.09,terrestris,DM11.site01,Y,M
+DM11.10,terrestris,DM11.site01,N,M
+DM11.11,terrestris,DM11.site01,N,M
+DM11.12,terrestris,DM11.site01,Y,M
+DM11.17,terrestris,DM11.site02,Y,M
+DM11.18,terrestris,DM11.site02,Y,M
+DM11.19,terrestris,DM11.site02,Y,M
+DM11.20,terrestris,DM11.site02,Y,M
+DM11.21,terrestris,DM11.site02,Y,M
+DM11.22,terrestris,DM11.site02,Y,M
+DM11.23,terrestris,DM11.site02,Y,M
+DM11.24,terrestris,DM11.site02,Y,M
+DM11.25,terrestris,DM11.site02,N,M
+DM11.26,terrestris,DM11.site02,Y,W
+DM11.27,terrestris,DM11.site02,Y,M
+DM11.28,terrestris,DM11.site02,Y,M
+DM11.29,terrestris,DM11.site02,Y,M
+DM11.30,terrestris,DM11.site02,Y,M
+DM11.31,terrestris,DM11.site02,N,M
+DM11.32,terrestris,DM11.site02,N,W
+DM11.33,terrestris,DM11.site02,Y,W
+DM11.34,terrestris,DM11.site02,Y,W
+Fr10.0001,terrestris,Fr10.site11,N,W
+Fr10.0002,terrestris,Fr10.site11,N,W
+Fr10.0003,terrestris,Fr10.site11,N,W
+Fr10.0004,terrestris,Fr10.site11,N,M
+Fr10.0005,terrestris,Fr10.site11,N,W
+Fr10.0006,terrestris,Fr10.site11,N,W
+Fr10.0007,terrestris,Fr10.site11,N,W
+Fr10.0008,terrestris,Fr10.site14,N,W
+Fr10.0009,terrestris,Fr10.site14,N,W
+Fr10.0010,terrestris,LasMayons,N,W
+Fr10.0011,terrestris,Fr10.site03,N,W
+Fr10.0012,terrestris,Fr10.site03,N,W
+Fr10.0013,terrestris,Fr10.site03,N,W
+Fr10.0014,terrestris,Fr10.site03,N,W
+Fr10.0015,terrestris,Fr10.site03,N,W
+Fr10.0016,terrestris,Fr10.site07,N,W
+Fr10.0017,terrestris,Fr10.site16,N,W
+Fr10.0018,terrestris,Fr10.site16,N,M
+Fr10.0019,terrestris,Fr10.site06,N,W
+Fr10.0020,terrestris,Fr10.site06,N,W
+Fr10.0021,terrestris,Fr10.site05,N,W
+Fr10.0022,terrestris,Fr10.site05,N,W
+Fr10.0023,terrestris,Fr10.site05,Y,W
+Fr10.0024,terrestris,Fr10.site05,N,W
+Fr10.0025,terrestris,Fr10.site05,Y,W
+Fr10.0026,terrestris,Fr10.site12,N,M
+Fr10.0027,terrestris,Fr10.site12,Y,M
+Fr10.0028,terrestris,Fr10.site19,N,M
+Fr10.0029,terrestris,Fr10.site19,N,W
+Fr10.0030,terrestris,Fr10.site19,N,W
+Fr10.0031,terrestris,Fr10.site09,Y,W
+Fr10.0032,terrestris,Fr10.site09,N,W
+Fr10.0033,terrestris,Fr10.site09,N,W
+Fr10.0034,terrestris,Fr10.site09,N,W
+Fr10.0035,terrestris,Fr10.site15,N,M
+Fr10.0036,terrestris,Fr10.site15,N,M
+Fr10.0037,terrestris,Fr10.site15,N,W
+Fr10.0038,terrestris,Fr10.site15,N,W
+Fr10.0039,terrestris,Fr10.site15,N,W
+Fr10.0040,terrestris,Fr10.site15,N,W
+Fr10.0041,terrestris,Fr10.site15,N,W
+Fr10.0042,terrestris,Fr10.site15,N,W
+Fr10.0043,terrestris,Fr10.site15,N,W
+Fr10.0044,terrestris,Fr10.site15,N,W
+Fr10.0045,terrestris,Fr10.site15,N,M
+Fr10.0046,terrestris,Fr10.site15,N,M
+Fr10.0047,terrestris,Fr10.site15,N,W
+Fr10.0048,terrestris,Fr10.site15,N,W
+Fr10.0049,terrestris,Fr10.site15,N,W
+Fr10.0050,terrestris,Fr10.site15,Y,W
+Fr10.0051,terrestris,Fr10.site15,N,W
+Fr10.0052,terrestris,Fr10.site15,N,W
+Fr10.0053,terrestris,Fr10.site15,N,M
+Fr10.0054,terrestris,Fr10.site15,N,M
+Fr10.0055,terrestris,Fr10.site15,N,W
+Fr10.0056,terrestris,Fr10.site15,N,W
+Fr10.0057,terrestris,Fr10.site08,Y,W
+Fr10.0058,terrestris,Fr10.site08,Y,W
+Fr10.0059,terrestris,Fr10.site08,N,W
+Fr10.0060,terrestris,Fr10.site08,N,W
+Fr10.0061,terrestris,Fr10.site08,N,W
+Fr10.0062,terrestris,Fr10.site08,N,W
+Fr10.0063,terrestris,Fr10.site10,N,W
+Fr10.0064,terrestris,Fr10.site10,N,W
+Fr10.0065,terrestris,Fr10.site10,N,W
+Fr10.0066,terrestris,Fr10.site10,N,W
+Fr10.0067,terrestris,Fr10.site10,N,W
+Fr10.0068,terrestris,Fr10.site10,N,W
+Fr10.0069,terrestris,Fr10.site10,N,W
+Fr10.0070,terrestris,Fr10.site10,N,W
+Fr10.0071,terrestris,Fr10.site10,N,W
+Fr10.0072,terrestris,Fr10.site10,N,W
+Fr10.0073,terrestris,Fr10.site10,N,M
+Fr10.0074,terrestris,Fr10.site21,N,M
+Fr10.0075,terrestris,Fr10.site21,N,M
+Fr10.0076,terrestris,Fr10.site21,N,M
+Fr10.0077,terrestris,Fr10.site21,N,M
+Fr10.0078,terrestris,Fr10.site21,N,M
+Fr10.0079,terrestris,Fr10.site21,N,M
+Fr10.0080,terrestris,Fr10.site21,Y,M
+Fr10.0081,terrestris,Fr10.site21,N,M
+Fr10.0082,terrestris,Fr10.site21,N,W
+Fr10.0083,terrestris,Fr10.site21,N,M
+Fr10.0084,terrestris,Fr10.site21,Y,M
+Fr10.0085,terrestris,Fr10.site21,N,M
+Fr10.0086,terrestris,Fr10.site21,N,M
+Fr10.0087,terrestris,Fr10.site21,N,W
+Fr10.0088,terrestris,Fr10.site21,N,M
+Fr10.0089,terrestris,Fr10.site21,Y,M
+Fr10.0090,terrestris,Fr10.site21,N,M
+Fr10.0091,terrestris,Fr10.site21,N,M
+Fr10.0092,terrestris,Fr10.site22,N,W
+Fr10.0093,terrestris,Fr10.site22,N,W
+Fr10.0094,terrestris,Fr10.site22,N,W
+Fr10.0095,terrestris,Fr10.site22,N,W
+Fr10.0096,terrestris,Fr10.site22,N,W
+Fr10.0097,terrestris,Fr10.site22,N,W
+Fr10.0098,terrestris,Fr10.site22,N,W
+Fr10.0099,terrestris,Fr10.site22,Y,M
+Fr10.0100,terrestris,Fr10.site22,N,M
+Fr10.0101,terrestris,Fr10.site22,N,M
+Fr10.0102,terrestris,Fr10.site22,N,W
+Fr10.0103,terrestris,Fr10.site22,Y,W
+Fr10.0104,terrestris,Fr10.site22,N,M
+Fr10.0105,terrestris,Fr10.site22,N,W
+Fr10.0106,terrestris,Fr10.site22,N,W
+Fr10.0107,terrestris,Fr10.site22,N,W
+Fr10.0108,terrestris,Fr10.site22,Y,M
+Fr10.0109,terrestris,Fr10.site22,N,W
+Fr10.0110,terrestris,Fr10.site22,N,M
+Fr10.0111,terrestris,Fr10.site22,N,W
+Fr10.0112,terrestris,Fr10.site22,N,W
+Fr10.0113,terrestris,Fr10.site22,N,W
+Fr10.0114,ruderatus,Fr10.site01,N,W
+Fr10.0115,lucorum,Fr10.site14,N,M
+Fr10.0116,lucorum,Fr10.site13,N,W
+Fr10.0117,lucorum,Fr10.site13,Y,W
+Fr10.0118,lucorum,Fr10.site13,Y,W
+Fr10.0119,lucorum,Fr10.site13,N,W
+Fr10.0120,lucorum,Fr10.site13,N,W
+Fr10.0121,lucorum,Fr10.site09,N,W
+Fr10.0122,lucorum,Fr10.site09,N,W
+Fr10.0123,lucorum,Fr10.site10,N,W
+Fr10.0124,lucorum,Fr10.site10,N,W
+Fr10.0125,lucorum,Fr10.site10,N,W
+Fr10.0126,lucorum,Fr10.site10,N,W
+Fr10.0127,lucorum,Fr10.site10,N,W
+Fr10.0128,lucorum,Fr10.site10,N,W
+Fr10.0129,lucorum,Fr10.site10,N,W
+Fr10.0131,terrestris,Fr10.site02,N,W
+Fr10.0132,terrestris,Fr10.site02,N,W
+Fr10.0133,terrestris,Fr10.site02,N,W
+Fr10.0134,terrestris,Fr10.site02,N,W
+Fr10.0135,terrestris,Fr10.site02,N,W
+Fr10.0136,terrestris,Fr10.site02,N,W
+Fr10.0137,terrestris,Fr10.site02,N,W
+Fr10.0138,terrestris,Fr10.site02,N,W
+Fr10.0139,terrestris,Fr10.site02,N,W
+Fr10.0140,terrestris,Fr10.site02,N,W
+Fr10.0141,terrestris,Fr10.site02,Y,W
+Fr10.0142,terrestris,Fr10.site02,N,W
+Fr10.0143,terrestris,Fr10.site02,N,W
+Fr10.0144,terrestris,Fr10.site02,N,W
+Fr10.0145,terrestris,Fr10.site02,N,W
+Fr10.0146,terrestris,Fr10.site02,N,W
+Fr10.0147,terrestris,Fr10.site02,N,W
+Fr10.0148,terrestris,Fr10.site02,Y,W
+Fr10.0149,terrestris,Fr10.site02,N,W
+Fr10.0150,terrestris,Fr10.site02,N,W
+Fr10.0151,terrestris,Fr10.site02,N,W
+Fr10.0152,terrestris,Fr10.site02,Y,W
+Fr10.0153,terrestris,Fr10.site02,N,W
+Fr10.0154,terrestris,Fr10.site02,N,W
+Fr10.0155,terrestris,Fr10.site02,N,W
+Fr10.0156,terrestris,Fr10.site02,Y,W
+Fr10.0157,terrestris,Fr10.site02,N,W
+Fr10.0158,terrestris,Fr10.site02,N,W
+Fr10.0159,terrestris,Fr10.site02,N,W
+Fr10.0160,terrestris,Fr10.site17,N,W
+Fr10.0161,terrestris,Fr10.site17,N,W
+Fr10.0162,terrestris,Fr10.site17,N,W
+Fr10.0163,terrestris,Fr10.site17,N,W
+Fr10.0164,terrestris,Fr10.site17,N,W
+Fr10.0165,terrestris,Fr10.site17,N,W
+Fr10.0166,terrestris,Fr10.site17,N,W
+Fr10.0167,terrestris,Fr10.site17,N,W
+Fr10.0168,terrestris,Fr10.site17,N,W
+Fr10.0169,terrestris,Fr10.site17,N,W
+Fr10.0170,terrestris,Fr10.site17,N,W
+Fr10.0171,terrestris,Fr10.site17,N,W
+Fr10.0172,terrestris,Fr10.site17,N,W
+Fr10.0173,terrestris,Fr10.site17,N,W
+Fr10.0174,terrestris,Fr10.site17,N,W
+Fr10.0175,terrestris,Fr10.site17,N,W
+Fr10.0176,terrestris,Fr10.site17,N,W
+Fr10.0177,terrestris,Fr10.site17,N,W
+Fr10.0178,terrestris,Fr10.site17,N,W
+Fr10.0179,terrestris,Fr10.site17,N,W
+Fr10.0180,terrestris,Fr10.site17,Y,W
+Fr10.0181,terrestris,Fr10.site17,N,W
+Fr10.0182,terrestris,Fr10.site17,N,W
+Fr10.0183,terrestris,Fr10.site17,N,W
+Fr10.0184,terrestris,Fr10.site17,N,W
+Fr10.0185,terrestris,Fr10.site17,N,W
+Fr10.0186,terrestris,Fr10.site17,N,W
+Fr10.0187,terrestris,Fr10.site17,Y,W
+Fr10.0188,terrestris,Fr10.site17,N,W
+Fr10.0189,terrestris,Fr10.site17,N,W
+Fr10.0190,terrestris,Fr10.site17,N,W
+Fr10.0191,terrestris,Fr10.site17,N,W
+Fr10.0192,terrestris,Fr10.site17,Y,W
+Fr10.0193,terrestris,Fr10.site17,N,W
+Fr10.0194,terrestris,Fr10.site17,N,W
+Fr10.0195,terrestris,Fr10.site17,N,W
+Fr10.0196,terrestris,Fr10.site17,N,W
+Fr10.0197,terrestris,Fr10.site17,N,W
+Fr10.0198,terrestris,Fr10.site17,N,W
+Fr10.0199,terrestris,Fr10.site17,N,W
+Fr10.0200,terrestris,Fr10.site17,N,W
+Fr10.0201,terrestris,Fr10.site17,N,W
+Fr10.0202,terrestris,Fr10.site17,N,W
+Fr10.0203,terrestris,Fr10.site17,N,W
+Fr10.0204,terrestris,Fr10.site17,N,W
+Fr10.0205,terrestris,Fr10.site17,N,W
+Fr10.0206,terrestris,Fr10.site17,N,W
+Fr10.0207,terrestris,Fr10.site17,N,W
+Fr10.0208,terrestris,Fr10.site17,N,W
+Fr10.0209,terrestris,Fr10.site17,N,W
+Fr10.0210,terrestris,Fr10.site17,N,W
+Fr10.0211,terrestris,Fr10.site17,N,W
+Fr10.0212,terrestris,Fr10.site12,N,W
+Fr10.0213,terrestris,Fr10.site12,N,W
+Fr10.0214,terrestris,Fr10.site12,N,W
+Fr10.0215,terrestris,Fr10.site12,N,W
+Fr10.0216,terrestris,Fr10.site12,N,W
+Fr10.0217,terrestris,Fr10.site12,N,W
+Fr10.0218,terrestris,Fr10.site12,N,W
+Fr10.0219,terrestris,Fr10.site12,N,W
+Fr10.0220,terrestris,Fr10.site12,N,W
+Fr10.0221,terrestris,Fr10.site12,N,W
+Fr10.0222,terrestris,Fr10.site12,N,W
+Fr10.0223,terrestris,Fr10.site12,N,W
+Fr10.0224,terrestris,Fr10.site12,N,W
+Fr10.0225,terrestris,Fr10.site12,N,W
+Fr10.0226,terrestris,Fr10.site12,N,W
+Fr10.0227,terrestris,Fr10.site12,N,W
+Fr10.0228,terrestris,Fr10.site12,N,W
+Fr10.0229,terrestris,Fr10.site12,N,W
+Fr10.0230,terrestris,Fr10.site12,N,W
+Fr10.0231,terrestris,Fr10.site12,Y,W
+Fr10.0232,terrestris,Fr10.site12,N,W
+Fr10.0233,terrestris,Fr10.site12,N,W
+Fr10.0234,terrestris,Fr10.site12,Y,W
+Fr10.0235,terrestris,Fr10.site12,N,W
+Fr10.0236,terrestris,Fr10.site12,N,W
+Fr10.0237,terrestris,Fr10.site13,N,W
+Fr10.0238,terrestris,Fr10.site13,N,W
+Fr10.0239,terrestris,Fr10.site13,N,W
+Fr10.0240,terrestris,Fr10.site13,N,W
+Fr10.0241,terrestris,Fr10.site13,N,W
+Fr10.0242,terrestris,Fr10.site13,N,W
+Fr10.0243,terrestris,Fr10.site13,N,W
+Fr10.0244,terrestris,Fr10.site13,N,W
+Fr10.0245,terrestris,Fr10.site13,N,W
+Fr10.0246,terrestris,Fr10.site13,N,W
+Fr10.0247,terrestris,Fr10.site13,N,W
+Fr10.0248,terrestris,Fr10.site13,N,W
+Fr10.0249,terrestris,Fr10.site13,N,W
+Fr10.0250,terrestris,Fr10.site13,N,W
+Fr10.0251,terrestris,Fr10.site13,N,W
+Fr10.0252,terrestris,Fr10.site13,N,W
+Fr10.0253,terrestris,Fr10.site13,N,W
+Fr10.0254,terrestris,Fr10.site13,N,W
+Fr10.0255,terrestris,Fr10.site13,N,W
+Fr10.0256,terrestris,Fr10.site13,N,W
+Fr10.0257,terrestris,Fr10.site13,N,W
+Fr10.0258,terrestris,Fr10.site13,N,W
+Fr10.0259,terrestris,Fr10.site13,N,W
+Fr10.0260,terrestris,Fr10.site13,N,W
+Fr10.0261,terrestris,Fr10.site13,N,W
+Fr10.0262,terrestris,Fr10.site13,N,W
+Fr10.0263,terrestris,Fr10.site13,N,W
+Fr10.0264,terrestris,Fr10.site13,N,W
+Fr10.0265,terrestris,Fr10.site13,N,W
+Fr10.0266,terrestris,Fr10.site13,N,W
+Fr10.0267,terrestris,Fr10.site13,N,W
+Fr10.0268,terrestris,Fr10.site13,N,W
+Fr10.0269,terrestris,Fr10.site13,Y,W
+Fr10.0270,terrestris,Fr10.site01,N,W
+Fr10.0271,terrestris,Fr10.site01,N,W
+Fr10.0272,terrestris,Fr10.site01,Y,W
+Fr10.0273,terrestris,Fr10.site01,N,W
+Fr10.0274,terrestris,Fr10.site01,N,W
+Fr10.0275,terrestris,Fr10.site01,N,W
+Fr10.0276,terrestris,Fr10.site01,N,W
+Fr10.0277,terrestris,Fr10.site01,N,W
+Fr10.0278,terrestris,Fr10.site01,N,W
+Fr10.0279,terrestris,Fr10.site01,N,W
+Fr10.0280,terrestris,Fr10.site01,N,W
+Fr10.0281,terrestris,Fr10.site01,N,W
+Fr10.0282,terrestris,Fr10.site01,N,W
+Fr10.0283,terrestris,Fr10.site01,N,W
+Fr10.0284,terrestris,Fr10.site01,N,W
+Fr10.0285,terrestris,Fr10.site01,N,W
+Fr10.0286,terrestris,Fr10.site01,N,W
+Fr10.0287,terrestris,Fr10.site01,N,W
+Fr10.0288,terrestris,Fr10.site01,N,W
+Fr10.0289,terrestris,Fr10.site01,N,W
+Fr10.0290,terrestris,Fr10.site01,N,W
+Fr10.0291,terrestris,Fr10.site01,N,W
+Fr10.0292,terrestris,Fr10.site01,N,W
+Fr10.0293,terrestris,Fr10.site20,N,W
+Fr10.0294,terrestris,Fr10.site20,N,W
+Fr10.0295,terrestris,Fr10.site20,N,W
+Fr10.0296,terrestris,Fr10.site20,N,W
+Fr10.0297,terrestris,Fr10.site20,N,W
+Fr10.0298,terrestris,Fr10.site20,N,W
+Fr10.0299,terrestris,Fr10.site20,N,W
+Fr10.0300,terrestris,Fr10.site20,N,W
+Fr10.0301,terrestris,Fr10.site18,N,M
+Fr10.0302,terrestris,Fr10.site18,N,M
+Fr10.0303,terrestris,Fr10.site18,N,M
+Fr10.0304,terrestris,Fr10.site18,N,W
+Fr10.0305,terrestris,Fr10.site18,N,W
+Fr10.0306,terrestris,Fr10.site18,Y,W
+Fr10.0307,terrestris,Fr10.site18,N,W
+Fr10.0308,terrestris,Fr10.site18,N,M
+Fr10.0309,terrestris,Fr10.site18,N,M
+Fr10.0310,terrestris,Fr10.site18,N,W
+Fr10.0311,terrestris,Fr10.site18,N,W
+Fr10.0312,terrestris,Fr10.site18,N,M
+Fr10.0313,terrestris,Fr10.site18,N,W
+Fr10.0314,terrestris,Fr10.site18,N,W
+Fr10.0315,terrestris,Fr10.site18,N,M
+Fr10.0316,terrestris,Fr10.site18,Y,M
+Fr10.0317,terrestris,Fr10.site13,N,W
+Fr10.0318,terrestris,Fr10.site13,N,W
+Fr10.0319,terrestris,Fr10.site13,N,W
+Fr10.0320,terrestris,Fr10.site13,N,W
+Fr10.0321,terrestris,Fr10.site13,N,W
+Fr10.0322,terrestris,Fr10.site13,N,W
+Fr10.0323,terrestris,Fr10.site13,N,W
+Fr10.0324,terrestris,Fr10.site13,N,W
+Fr10.0325,terrestris,Fr10.site13,N,W
+Fr10.0326,terrestris,Fr10.site13,N,W
+Fr10.0327,terrestris,Fr10.site13,N,W
+Fr10.0328,terrestris,Fr10.site13,N,W
+Fr10.0329,terrestris,Fr10.site13,N,W
+Fr10.0330,terrestris,Fr10.site04,N,W
+Fr10.0331,terrestris,Fr10.site04,Y,W
+Fr10.0332,terrestris,Fr10.site04,Y,W
+Fr10.0333,terrestris,Fr10.site04,N,W
+Fr10.0334,terrestris,Fr10.site04,N,W
+Fr10.0335,terrestris,Fr10.site04,Y,W
+Fr10.0336,terrestris,Fr10.site04,N,W
+Fr10.0337,terrestris,Fr10.site04,Y,W
+Fr10.0338,terrestris,Fr10.site04,Y,W
+Fr10.0339,terrestris,Fr10.site04,N,W
+Fr10.0340,terrestris,Fr10.site04,Y,W
+Fr10.0341,terrestris,Fr10.site04,N,W
+Fr10.0342,terrestris,Fr10.site04,N,W
+Fr10.0343,terrestris,Fr10.site04,N,W
+Fr10.0344,terrestris,Fr10.site04,N,W
+FR11.001,terrestris,Fr11.site01,Y,W
+FR11.002,terrestris,Fr11.site01,Y,M
+FR11.003,terrestris,Fr11.site01,N,W
+FR11.004,pascuorum,Fr11.site01,N,M
+FR11.005,lapidarius,Fr11.site01,N,W
+FR11.006,lucorum,Fr11.site01,N,W
+FR11.007,lucorum,Fr11.site01,N,W
+FR11.008,lucorum,Fr11.site01,N,W
+FR11.009,pascuorum,Fr11.site01,N,W
+FR11.010,pascuorum,Fr11.site01,N,M
+FR11.011,pascuorum,Fr11.site01,N,W
+FR11.012,lucorum,Fr11.site01,Y,W
+FR11.013,lucorum,Fr11.site01,N,W
+FR11.014,lucorum,Fr11.site01,N,W
+FR11.015,pascuorum,Fr11.site01,N,W
+FR11.016,pascuorum,Fr11.site01,N,W
+FR11.017,pascuorum,Fr11.site01,N,W
+FR11.018,pascuorum,Fr11.site01,N,W
+FR11.019,lapidarius,Fr11.site01,N,W
+FR11.020,lapidarius,Fr11.site01,N,W
+FR11.021,lapidarius,Fr11.site01,Y,W
+FR11.022,lapidarius,Fr11.site01,N,W
+FR11.023,lapidarius,Fr11.site01,N,W
+FR11.024,hortorum,Fr11.site01,N,W
+FR11.025,lucorum,Fr11.site01,N,W
+FR11.026,lucorum,Fr11.site01,N,W
+FR11.027,terrestris,Fr11.site01,N,W
+FR11.028,lucorum,Fr11.site01,N,W
+FR11.029,terrestris,Fr11.site01,N,W
+SK A1,terrestris,SK-A,N,W
+SK A10,terrestris,SK-A,N,W
+SK A11,terrestris,SK-A,Y,W
+SK A12,terrestris,SK-A,N,W
+SK A13,terrestris,SK-A,N,W
+SK A14,terrestris,SK-A,Y,W
+SK A15,terrestris,SK-A,N,W
+SK A16,terrestris,SK-A,N,M
+SK A17,terrestris,SK-A,N,W
+SK A18,lucorum,SK-A,Y,W
+SK A19,lucorum,SK-A,Y,W
+SK A2,terrestris,SK-A,N,W
+SK A20,lapidarius,SK-A,N,W
+SK A21,sylvarum,SK-A,N,W
+SK A3,terrestris,SK-A,N,W
+SK A4,terrestris,SK-A,N,W
+SK A5,terrestris,SK-A,N,W
+SK A6,terrestris,SK-A,N,W
+SK A7,terrestris,SK-A,N,W
+SK A8,terrestris,SK-A,Y,W
+SK A9,terrestris,SK-A,N,W
+SK B1,pascuorum,SK-B,N,W
+SK B10,terrestris,SK-B,Y,W
+SK B11,lapidarius,SK-B,N,W
+SK B12,lapidarius,SK-B,N,M
+SK B13,terrestris,SK-B,N,W
+SK B14,terrestris,SK-B,N,M
+SK B15,terrestris,SK-B,N,W
+SK B16,terrestris,SK-B,N,W
+SK B17,terrestris,SK-B,Y,M
+SK B18,terrestris,SK-B,Y,W
+SK B19,terrestris,SK-B,Y,W
+SK B2,lapidarius,SK-B,N,M
+SK B20,terrestris,SK-B,Y,W
+SK B3,terrestris,SK-B,N,W
+SK B4,lapidarius,SK-B,N,M
+SK B5,terrestris,SK-B,Y,W
+SK B6,terrestris,SK-B,Y,W
+SK B7,terrestris,SK-B,Y,W
+SK B8,terrestris,SK-B,Y,M
+SK B9,terrestris,SK-B,N,W
+UP A1,terrestris,UP-A,N,W
+UP A10,terrestris,UP-A,N,W
+UP A11,terrestris,UP-A,N,W
+UP A12,terrestris,UP-A,N,W
+UP A13,terrestris,UP-A,N,W
+UP A14,terrestris,UP-A,N,W
+UP A15,terrestris,UP-A,N,W
+UP A17,hortorum,UP-A,N,W
+UP A18,hortorum,UP-A,N,W
+UP A19,hypnorum,UP-A,N,W
+UP A2,terrestris,UP-A,N,W
+UP A20,lapidarius,UP-A,N,W
+UP A21,lucorum,UP-A,N,W
+UP A22,subterraneus,UP-A,N,W
+UP A23,sylvarum,UP-A,N,W
+UP A3,terrestris,UP-A,N,W
+UP A4,terrestris,UP-A,N,W
+UP A5,terrestris,UP-A,N,W
+UP A6,terrestris,UP-A,N,W
+UP A7,terrestris,UP-A,N,W
+UP A8,terrestris,UP-A,N,W
+UP A9,terrestris,UP-A,N,W
+UP B1,terrestris,UP-B,N,W
+UP B10,terrestris,UP-B,N,M
+UP B11,terrestris,UP-B,Y,M
+UP B12,terrestris,UP-B,Y,M
+UP B13,terrestris,UP-B,N,M
+UP B14,terrestris,UP-B,Y,M
+UP B15,terrestris,UP-B,Y,M
+UP B16,terrestris,UP-B,Y,M
+UP B17,lapidarius,UP-B,Y,M
+UP B18,rupestris,UP-B,N,M
+UP B19,soroeensis,UP-B,Y,M
+UP B2,terrestris,UP-B,N,W
+UP B20,hortorum,UP-B,N,W
+UP B3,terrestris,UP-B,N,W
+UP B4,terrestris,UP-B,Y,W
+UP B5,terrestris,UP-B,Y,W
+UP B6,terrestris,UP-B,Y,M
+UP B7,terrestris,UP-B,Y,M
+UP B8,terrestris,UP-B,Y,M
+UP B9,terrestris,UP-B,Y,M
+UP C1,terrestris,UP-C,Y,W
+UP C10,pratorum,UP-C,N,M
+UP C11,ruderarius,UP-C,Y,M
+UP C12,ruderarius,UP-C,N,M
+UP C13,humilis,UP-C,N,W
+UP C14,bohemicus,UP-C,Y,M
+UP C15,bohemicus,UP-C,Y,M
+UP C16,bohemicus,UP-C,N,M
+UP C17,bohemicus,UP-C,N,M
+UP C18,bohemicus,UP-C,N,M
+UP C19,campestris,UP-C,N,M
+UP C2,terrestris,UP-C,N,W
+UP C20,sylvestris,UP-C,N,M
+UP C21,sylvestris,UP-C,N,M
+UP C22,norvegicus,UP-C,Y,M
+UP C23,norvegicus,UP-C,N,M
+UP C3,terrestris,UP-C,N,M
+UP C4,soroeensis,UP-C,N,W
+UP C5,soroeensis,UP-C,N,W
+UP C6,soroeensis,UP-C,N,W
+UP C7,hypnorum,UP-C,N,M
+UP C8,hypnorum,UP-C,Y,M
+UP C9,hypnorum,UP-C,N,M
+VG 1,terrestris,VG,N,W
+VG 10,terrestris,VG,N,W
+VG 11,terrestris,VG,Y,M
+VG 12,terrestris,VG,N,W
+VG 13,terrestris,VG,N,W
+VG 14,terrestris,VG,N,W
+VG 15,terrestris,VG,N,W
+VG 16,hortorum,VG,N,W
+VG 17,pascuorum,VG,N,W
+VG 18,pascuorum,VG,N,W
+VG 19,lapidarius,VG,N,W
+VG 2,terrestris,VG,N,W
+VG 20,terrestris,VG,N,M
+VG 3,terrestris,VG,Y,W
+VG 4,terrestris,VG,N,W
+VG 5,lucorum,VG,N,W
+VG 6,terrestris,VG,N,W
+VG 7,terrestris,VG,N,W
+VG 8,terrestris,VG,Y,W
+VG 9,terrestris,VG,N,W
